@@ -2,24 +2,28 @@
 
 [Subscribe to our newsletter](https://curatedaitools.substack.com/) to get a daily list of new AI tools & apps in your inbox.
 
-## Today's Featured AI Tools In One Sentence (04/07/2024)
+## Today's Featured AI Tools In One Sentence (04/08/2024)
 
-**[Resemble.ai](https://www.resemble.ai/):** A cutting-edge AI Voice Generator and robust deepfake audio detection.
+**[KapKap](https://www.kapkap.ai/):** An AI-based lip-sync video generator that assists creators with marketing needs in producing high-conversion marketing videos.
 
-**[Theydo](https://www.theydo.com/):** A collaborative workspace for Customer Journey Management.
+**[Brevy](https://www.brevy.social/):** Helps you write posts, replies and DMs better and faster. Intuitive, context-aware and customizable.
 
-**[Faraway](https://apps.apple.com/es/app/faraway-build-movies-with-ai/id1671313231):** An iOS app to help build movies with AI.
+**[VectorMind](https://vectormind.io/):** An AI-powered Vector Graphic Generator lets you create stunning vector graphic assets in mere seconds.
 
-**[PhotoHero](https://www.photohero.ai/):** Swap People in Photos Using AI.
+**[AutoShorts](https://autoshorts.ai/):** A powerful AI video creation platform that allows you to fully automate a faceless channel.
 
-**[korbit](https://www.korbit.ai/):** A GenAI PR Reviewer for GitHub.
+**[AI image editor](https://www.imagewith.ai/):** Enhance your images with ease. Upscale, remove backgrounds, erase debris, and more.
 
-**[Supergpt](https://www.supergpt.com/):** Like ChatGPT, but better.
+**[Arize](https://arize.com/):** Monitor, troubleshoot, and evaluate your LLMs.
 
-**[Bith.ai](https://bith.ai/):** An all-in-one free AI video editor to take your content to the next level.
+**[Yokoy](https://yokoy.io/):** Yokoy's AI-powered suite transforms spend management for midsize companies and global enterprises – so you can save while spending.
 
-**[Office Translator](https://officetranslator.com/):** The Smartest Document Translation.
+**[FPT AI](https://fpt.ai/):** Automate customer journey with market-leading AI bots.
 
-**[Merlin](https://chromewebstore.google.com/detail/camppjleccjaphfdbohjdohecfnoikec):** 1-click access to Powerful AI Plugins.
+**[Sweetspot](https://www.sweetspot.so/):** Leverages AI to help you find, manage, and bid on federal contract opportunities.
 
-**[wonderchat](https://wonderchat.io/):** Instantly build AI chatbots from your knowledge base
+**[Ragobble](https://ragobble.com/):** A platform that utilizes Al to turn audio files into documents.
+
+## Archives
+
+[Today's Featured AI Tools In One Sentence (04/08/2024)](https://curatedaitools.substack.com/p/todays-featured-ai-tools-in-one-sentence)
