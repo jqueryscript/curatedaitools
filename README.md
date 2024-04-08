@@ -26,4 +26,4 @@
 
 ## Archives
 
-[Today's Featured AI Tools In One Sentence (04/08/2024)](https://curatedaitools.substack.com/p/todays-featured-ai-tools-in-one-sentence)
+[Today's Featured AI Tools In One Sentence (04/07/2024)](https://curatedaitools.substack.com/p/todays-featured-ai-tools-in-one-sentence)
