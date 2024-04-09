@@ -2,28 +2,30 @@
 
 [Subscribe to our newsletter](https://curatedaitools.substack.com/) to get a daily list of new AI tools & apps in your inbox.
 
-## Today's Featured AI Tools In One Sentence (04/08/2024)
+## Today's Featured AI Tools In One Sentence (04/09/2024)
 
-**[KapKap](https://www.kapkap.ai/):** An AI-based lip-sync video generator that assists creators with marketing needs in producing high-conversion marketing videos.
+**[Donakosy](https://www.donakosy.com/):** Your One-Stop platform to generate all Artificial Intelligence (AI) content & AI Voiceovers.
 
-**[Brevy](https://www.brevy.social/):** Helps you write posts, replies and DMs better and faster. Intuitive, context-aware and customizable.
+**[PopAi](https://www.popai.pro/):** Your Personal AI Workspace.
 
-**[VectorMind](https://vectormind.io/):** An AI-powered Vector Graphic Generator lets you create stunning vector graphic assets in mere seconds.
+**[Hix.ai](https://hix.ai/):** The Most Powerful, All-in-One AI Writing Copilot.
 
-**[AutoShorts](https://autoshorts.ai/):** A powerful AI video creation platform that allows you to fully automate a faceless channel.
+**[Pat AI](https://www.heypat.ai/):** Text AI with real time knowledge, events, news, sports scores from your favorite messaging apps.
 
-**[AI image editor](https://www.imagewith.ai/):** Enhance your images with ease. Upscale, remove backgrounds, erase debris, and more.
+**[Nuanced](https://www.nuanced.dev/):** Detect AI-generated images to protect the integrity and authenticity of your service.
 
-**[Arize](https://arize.com/):** Monitor, troubleshoot, and evaluate your LLMs.
+**[Eververse](https://www.eververse.ai/):** Build your product roadmap at lightspeed.
 
-**[Yokoy](https://yokoy.io/):** Yokoy's AI-powered suite transforms spend management for midsize companies and global enterprises – so you can save while spending.
+**[Podnotes](https://www.podnotes.app/):** Generate Transcripts, Summaries, articles, blog posts, Linkedin Posts, Tweets, Audiograms and 100+ content assets in 19+ languages effortlessly.
 
-**[FPT AI](https://fpt.ai/):** Automate customer journey with market-leading AI bots.
+**[HomeStage](https://homestage.app/):** Lets you upload a picture and our AI will add furniture within seconds.
 
-**[Sweetspot](https://www.sweetspot.so/):** Leverages AI to help you find, manage, and bid on federal contract opportunities.
+**[CleeAI](https://www.cleeai.com/):** The Smart, Transparent, and Secure Way to Find the Answers You Need.
 
-**[Ragobble](https://ragobble.com/):** A platform that utilizes Al to turn audio files into documents.
+**[Useapollo](https://useapollo.app/):** Carefully crafted AI tools to take your content to the moon.
 
 ## Archives
+
+[Today's Featured AI Tools In One Sentence (04/08/2024)](https://curatedaitools.substack.com/p/todays-featured-ai-tools-in-one-sentence-d81)
 
 [Today's Featured AI Tools In One Sentence (04/07/2024)](https://curatedaitools.substack.com/p/todays-featured-ai-tools-in-one-sentence)
