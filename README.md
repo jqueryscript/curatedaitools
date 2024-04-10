@@ -2,29 +2,31 @@
 
 [Subscribe to our newsletter](https://curatedaitools.substack.com/) to get a daily list of new AI tools & apps in your inbox.
 
-## Today's Featured AI Tools In One Sentence (04/09/2024)
+## Today's Featured AI Tools In One Sentence (04/10/2024)
 
-**[Donakosy](https://www.donakosy.com/):** Your One-Stop platform to generate all Artificial Intelligence (AI) content & AI Voiceovers.
+**[AI Video Background Remover](https://www.fotor.com/video-background-remover/):** Instantly remove background from portrait video with a single tap.
 
-**[PopAi](https://www.popai.pro/):** Your Personal AI Workspace.
+**[Narrationbox](https://narrationbox.com/)**: Ultra-realistic voiceovers in seconds.
 
-**[Hix.ai](https://hix.ai/):** The Most Powerful, All-in-One AI Writing Copilot.
+**[Seomatic](https://seomatic.ai/):** The easy way to build and manage large scale content for lead generation.
 
-**[Pat AI](https://www.heypat.ai/):** Text AI with real time knowledge, events, news, sports scores from your favorite messaging apps.
+**[RightMatch](https://joinrightmatch.com/):** An assessment tool that allows you to vet many candidates accurately and quickly.
 
-**[Nuanced](https://www.nuanced.dev/):** Detect AI-generated images to protect the integrity and authenticity of your service.
+**[Photopacks](https://www.photopacks.ai/):** Photo shoot quality headshots - Without the price tag.
 
-**[Eververse](https://www.eververse.ai/):** Build your product roadmap at lightspeed.
+**[Blogimagery](https://blogimagery.ai/):** Generate perfect images for your blogs with a single click.
 
-**[Podnotes](https://www.podnotes.app/):** Generate Transcripts, Summaries, articles, blog posts, Linkedin Posts, Tweets, Audiograms and 100+ content assets in 19+ languages effortlessly.
+**[Rewind](https://apps.apple.com/us/app/rewind-truly-personalized-ai/id6449795815):** Browse, search, and ask Rewind about anything you’ve seen on your phone.
 
-**[HomeStage](https://homestage.app/):** Lets you upload a picture and our AI will add furniture within seconds.
+**[Morphic](https://www.scriptbyai.com/open-source-answer-engine-morphic/):** An open-source AI answer engine that provides insightful answers and explores related topics. Learn how to build your own!
 
-**[CleeAI](https://www.cleeai.com/):** The Smart, Transparent, and Secure Way to Find the Answers You Need.
+**[Figgs](https://www.scriptbyai.com/create-chat-character-figgs/):** Create & Chat With AI Characters. 100% Free.
 
-**[Useapollo](https://useapollo.app/):** Carefully crafted AI tools to take your content to the moon.
+**[Deepswap](https://www.deepswap.ai/):** Best Face and Video Edit Tools Online.
 
 ## Archives
+
+[Today's Featured AI Tools In One Sentence (04/09/2024)](https://curatedaitools.substack.com/p/todays-featured-ai-tools-in-one-sentence-1a0)
 
 [Today's Featured AI Tools In One Sentence (04/08/2024)](https://curatedaitools.substack.com/p/todays-featured-ai-tools-in-one-sentence-d81)
 
