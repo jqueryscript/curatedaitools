@@ -2,29 +2,31 @@
 
 [Subscribe to our newsletter](https://curatedaitools.substack.com/) to get a daily list of new AI tools & apps in your inbox.
 
-## Today's Featured AI Tools In One Sentence (04/11/2024)
+## Today's Featured AI Tools In One Sentence (04/12/2024)
 
-**[Aider](https://github.com/paul-gauthier/aider):** A command line tool that lets you pair program with GPT-3.5/GPT-4, to edit code stored in your local git repository.
+**[Udio](https://www.udio.com/):** An AI music generator that translates your musical ideas into actual songs.
 
-**[Magichour](https://magichour.ai/):** An all-in-one AI video creation platform that streamlines content production from ideation to production.
+**[Blahget](https://www.appar.ai/):** A smart AI budget-tracking app.
 
-**[Pingparrot](https://www.pingparrot.com/):** Build an AI powered chatbot, embed it on your website and let it help you handle customer support - no coding required.
+**[Goprofiles](https://www.goprofiles.io/):** The first AI people platform for employees anywhere.
 
-**[Boltai](https://boltai.com/):** A beautiful & powerful ChatGPT app for Mac.
+**[eezyCollab](https://www.eezycollab.com/):** The most affordable, AI-powered influencer marketing tool.
 
-**[Upgrow](https://www.upgrow.com/):** Get real Instagram followers with organic AI Growth and automation.
+**[Captions](https://www.captions.ai/):** The next generation of storytelling - discover the power of AI and create studio-grade videos in just a few taps.
 
-**[Loopcv](https://www.loopcv.pro/):** Loopcv helps you get 3x more interviews using automation.
+**[V7](https://www.v7labs.com/):** Turn images, videos & documents into trustworthy AI.
 
-**[Packify](https://www.packify.ai/):** Tell Al what you imagine for your packaging design, and see it quickly come up with creative ideas for you.
+**[Synthflow](https://synthflow.ai/):** First human-like conversational AI voice agents.
 
-**[Codia](https://codia.ai/):** Revolutionizing Design And Development With AI.
+**[Rotorvideos](https://rotorvideos.com/):** Make great videos quickly and easily with zero video editing skills or production know-how.
 
-**[OSO](https://www.oso.ai/):** Find answers faster than any search engine, chat about any topic without restriction, and automate workflows with ease.
+**[Brevy](https://www.brevy.social/):** Helps you write posts, replies and DMs better and faster. Intuitive, context-aware and customizable.
 
-**[Magictool](https://chromewebstore.google.com/detail/ai-chrome-extension-power/fedmdabgnkfghjplejeilojikdaopkpm):** Your All-in-One AI Chrome Extension featuring ChatGPT, AI Writer, Grammar Checker, Paraphraser, Youtube Summarizer +20 more.
+**[InstaShort:](https://instashorts.co/)** Enables business owners to effortlessly create authentic TikTok shorts that resonate with their audience in minutes.
 
 ## Archives
+
+[Today's Featured AI Tools In One Sentence (04/11/2024)](https://curatedaitools.substack.com/p/todays-featured-ai-tools-in-one-sentence-0a9)
 
 [Today's Featured AI Tools In One Sentence (04/10/2024)](https://curatedaitools.substack.com/p/todays-featured-ai-tools-in-one-sentence-288)
 
