@@ -2,29 +2,33 @@
 
 [Subscribe to our newsletter](https://curatedaitools.substack.com/) to get a daily list of new AI tools & apps in your inbox.
 
-## Today's Featured AI Tools In One Sentence (04/12/2024)
+## Today's Featured AI Tools In One Sentence (04/15/2024)
 
-**[Udio](https://www.udio.com/):** An AI music generator that translates your musical ideas into actual songs.
+**[Sitejetai](https://sitejetai.com/):** The AI-powered solution redefining customer support.
 
-**[Blahget](https://www.appar.ai/):** A smart AI budget-tracking app.
+**[Interviewwith](https://interviewwith.ai/):** Use AI to get your dream job.
 
-**[Goprofiles](https://www.goprofiles.io/):** The first AI people platform for employees anywhere.
+**[Chatslide](https://chatslide.ai/landing):** Build your Slides and Video in one click.
 
-**[eezyCollab](https://www.eezycollab.com/):** The most affordable, AI-powered influencer marketing tool.
+**[Vocalreplica](https://vocalreplica.com/):** Remove vocals and isolate instrumentals from your favorite tracks.
 
-**[Captions](https://www.captions.ai/):** The next generation of storytelling - discover the power of AI and create studio-grade videos in just a few taps.
+**[Ubique](https://www.ubique.live/):** Grow your engagement rates with compelling personalized video messages.
 
-**[V7](https://www.v7labs.com/):** Turn images, videos & documents into trustworthy AI.
+**[Assemblyai](https://www.assemblyai.com/):** Transcribe speech to text and extract insights from your voice data.
 
-**[Synthflow](https://synthflow.ai/):** First human-like conversational AI voice agents.
+**[Muraena](https://muraena.ai/):** A contacts discovery tool for B2B professionals, containing 800M profiles and 30M companies.
 
-**[Rotorvideos](https://rotorvideos.com/):** Make great videos quickly and easily with zero video editing skills or production know-how.
+**[Redcom](https://redcom.ai/):** Generate engaging and human-like comments on Reddit using AI.
 
-**[Brevy](https://www.brevy.social/):** Helps you write posts, replies and DMs better and faster. Intuitive, context-aware and customizable.
+**[Screensnap](https://screensnap.ai/):** The ultimate solution for effortlessly capturing, searching and organizing your screenshots on macOS.
 
-**[InstaShort:](https://instashorts.co/)** Enables business owners to effortlessly create authentic TikTok shorts that resonate with their audience in minutes.
+**[Ytube](https://www.ytube.ai/):** Transform YouTube videos into SEO-friendly blogs in any language.
 
 ## Archives
+
+[Today's Featured AI Tools In One Sentence (04/13/2024)](https://curatedaitools.substack.com/p/todays-featured-ai-tools-in-one-sentence-c1f)
+
+[Today's Featured AI Tools In One Sentence (04/12/2024)](https://curatedaitools.substack.com/p/todays-featured-ai-tools-in-one-sentence-a91)
 
 [Today's Featured AI Tools In One Sentence (04/11/2024)](https://curatedaitools.substack.com/p/todays-featured-ai-tools-in-one-sentence-0a9)
 
