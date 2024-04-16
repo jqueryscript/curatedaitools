@@ -2,29 +2,31 @@
 
 [Subscribe to our newsletter](https://curatedaitools.substack.com/) to get a daily list of new AI tools & apps in your inbox.
 
-## Today's Featured AI Tools In One Sentence (04/15/2024)
+## Today's Featured AI Tools In One Sentence (04/16/2024)
 
-**[Sitejetai](https://sitejetai.com/):** The AI-powered solution redefining customer support.
+**[Calesitai](https://www.calesitai.com/):** The first AI Copilot for Modern Marketing Teams.
 
-**[Interviewwith](https://interviewwith.ai/):** Use AI to get your dream job.
+**[Vidyard](https://www.vidyard.com/):** Stand out with prospects, tell better stories, and wow your customers with AI-powered video messaging, video hosting, and buyer engagement solutions.
 
-**[Chatslide](https://chatslide.ai/landing):** Build your Slides and Video in one click.
+**[Wisecut](https://www.wisecut.ai/):** An AI video editor that automatically transforms your long videos into viral clips.
 
-**[Vocalreplica](https://vocalreplica.com/):** Remove vocals and isolate instrumentals from your favorite tracks.
+**[Clay](https://www.clay.com/):** Maximize your data coverage with 75+ enrichment tools and our AI agent.
 
-**[Ubique](https://www.ubique.live/):** Grow your engagement rates with compelling personalized video messages.
+**[Mindgenie](https://www.mindgenie.co/):** Save time with AI planning assistant, automated tasks, scheduling and more.
 
-**[Assemblyai](https://www.assemblyai.com/):** Transcribe speech to text and extract insights from your voice data.
+**[Intelligenius](https://intelligenius.ai/home/):** All-in-one platform to generate AI content with limitless possibilities in minutes.
 
-**[Muraena](https://muraena.ai/):** A contacts discovery tool for B2B professionals, containing 800M profiles and 30M companies.
+**[Heyluna](https://heyluna.ai/):** An AI powered 3D virtual assistant that can have long conversations, remember things & connect with your favorite apps.
 
-**[Redcom](https://redcom.ai/):** Generate engaging and human-like comments on Reddit using AI.
+**[Donakosy](https://www.donakosy.com/):** Your One-Stop platform to generate all Artificial Intelligence (AI) contents & AI Voiceovers.
 
-**[Screensnap](https://screensnap.ai/):** The ultimate solution for effortlessly capturing, searching and organizing your screenshots on macOS.
+**[Usebrainbase](https://usebrainbase.com/):** Automate your repetitive data tasks with AI, let your team work on what really matters.
 
-**[Ytube](https://www.ytube.ai/):** Transform YouTube videos into SEO-friendly blogs in any language.
+**[Exactly](https://exactly.ai/):** Create images in seconds with an AI that understands your style.
 
 ## Archives
+
+[Today's Featured AI Tools In One Sentence (04/15/2024)](https://curatedaitools.substack.com/p/todays-featured-ai-tools-in-one-sentence-d3a)
 
 [Today's Featured AI Tools In One Sentence (04/13/2024)](https://curatedaitools.substack.com/p/todays-featured-ai-tools-in-one-sentence-c1f)
 
