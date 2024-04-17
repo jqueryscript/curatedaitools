@@ -2,29 +2,31 @@
 
 [Subscribe to our newsletter](https://curatedaitools.substack.com/) to get a daily list of new AI tools & apps in your inbox.
 
-## Today's Featured AI Tools In One Sentence (04/16/2024)
+## Today's Featured AI Tools In One Sentence (04/17/2024)
 
-**[Calesitai](https://www.calesitai.com/):** The first AI Copilot for Modern Marketing Teams.
+**[Firecrawl](https://github.com/mendableai/firecrawl):** Crawl and convert any website into LLM-ready markdown.
 
-**[Vidyard](https://www.vidyard.com/):** Stand out with prospects, tell better stories, and wow your customers with AI-powered video messaging, video hosting, and buyer engagement solutions.
+**[SEOmaker](https://seomaker.ai/):** Get ahead of the competition and create 10X faster content for SEO, blogs, ads, websites, emails or social media.
 
-**[Wisecut](https://www.wisecut.ai/):** An AI video editor that automatically transforms your long videos into viral clips.
+**[Kaiber](https://kaiber.ai/):** Turn text, videos, photos, and music into stunning videos with advanced AI generation engine.
 
-**[Clay](https://www.clay.com/):** Maximize your data coverage with 75+ enrichment tools and our AI agent.
+**[Celebrityaivoice](https://www.celebrityaivoice.net/):** Simply and quickly create the voice of a celebrity through the celebrity AI voice generator, anyone's voice can be created.
 
-**[Mindgenie](https://www.mindgenie.co/):** Save time with AI planning assistant, automated tasks, scheduling and more.
+**[Mutable](https://mutable.ai/):** Understand and document with AI.
 
-**[Intelligenius](https://intelligenius.ai/home/):** All-in-one platform to generate AI content with limitless possibilities in minutes.
+**[Argil](https://www.argil.ai/):** Create shorts of yourself in under 5 minutes with your AI clone, with dynamic editing, captions and AI scripts.
 
-**[Heyluna](https://heyluna.ai/):** An AI powered 3D virtual assistant that can have long conversations, remember things & connect with your favorite apps.
+**[Tess](https://www.tess.design/):** Illustrate your story with properly licensed models, only on Tess.
 
-**[Donakosy](https://www.donakosy.com/):** Your One-Stop platform to generate all Artificial Intelligence (AI) contents & AI Voiceovers.
+**[Broearn](https://www.broearn.com/):** Your Al Web 3.0 Browser.
 
-**[Usebrainbase](https://usebrainbase.com/):** Automate your repetitive data tasks with AI, let your team work on what really matters.
+**[Driverai](https://www.driverai.com/):** Driver AI explains millions of lines of code in minutes instead of months.
 
-**[Exactly](https://exactly.ai/):** Create images in seconds with an AI that understands your style.
+**[Chat2DB](https://chat2db.ai/):** AI-driven data management platform.
 
 ## Archives
+
+[Today's Featured AI Tools In One Sentence (04/16/2024)](https://curatedaitools.substack.com/p/todays-featured-ai-tools-in-one-sentence-21e)
 
 [Today's Featured AI Tools In One Sentence (04/15/2024)](https://curatedaitools.substack.com/p/todays-featured-ai-tools-in-one-sentence-d3a)
 
