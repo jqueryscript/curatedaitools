@@ -2,29 +2,31 @@
 
 [Subscribe to our newsletter](https://curatedaitools.substack.com/) to get a daily list of new AI tools & apps in your inbox.
 
-## Today's Featured AI Tools In One Sentence (04/17/2024)
+## Today's Featured AI Tools In One Sentence (04/18/2024)
 
-**[Firecrawl](https://github.com/mendableai/firecrawl):** Crawl and convert any website into LLM-ready markdown.
+**[Brewit](https://brewit.ai/):** AI data analyst that answers your data questions.
 
-**[SEOmaker](https://seomaker.ai/):** Get ahead of the competition and create 10X faster content for SEO, blogs, ads, websites, emails or social media.
+**[Downtobid](https://downtobid.com/):** Turn Construction Plans Into Bid Invites in Minutes.
 
-**[Kaiber](https://kaiber.ai/):** Turn text, videos, photos, and music into stunning videos with advanced AI generation engine.
+**[Golinks](https://www.golinks.io/):** Access and share information instantly with intuitive, secure short links, called go links, and conversational search powered by generative AI.
 
-**[Celebrityaivoice](https://www.celebrityaivoice.net/):** Simply and quickly create the voice of a celebrity through the celebrity AI voice generator, anyone's voice can be created.
+**[Superwhisper](https://superwhisper.com/):** AI powered voice to text for macOS.
 
-**[Mutable](https://mutable.ai/):** Understand and document with AI.
+**[useziggy](https://www.useziggy.com/):** Ziggy automates 1-on-1 conversations using AI, allowing you to conduct feedback interviews seamlessly with anyone, anytime.
 
-**[Argil](https://www.argil.ai/):** Create shorts of yourself in under 5 minutes with your AI clone, with dynamic editing, captions and AI scripts.
+**[NSWR](https://www.nswr.ai/en):** An AI tool to answer all your comments in 1 click.
 
-**[Tess](https://www.tess.design/):** Illustrate your story with properly licensed models, only on Tess.
+**[Spline](https://spline.design/):** 3D Design tool in the browser with real-time collaboration.
 
-**[Broearn](https://www.broearn.com/):** Your Al Web 3.0 Browser.
+**[Silatus](https://silatus.com/):** Generate fact-based reports on any subject.
 
-**[Driverai](https://www.driverai.com/):** Driver AI explains millions of lines of code in minutes instead of months.
+**[Math Solver GPT](https://chat.openai.com/g/g-s9oRG1rWv-math-solver-gpt):** Get instant math solutions by uploading an image.
 
-**[Chat2DB](https://chat2db.ai/):** AI-driven data management platform.
+**[Eazycaptions](https://eazycaptions.com/):** Use eye catching captions, sound effects and b-rolls to create and ship professional-looking videos for your audience.
 
 ## Archives
+
+[Today's Featured AI Tools In One Sentence (04/17/2024)](https://curatedaitools.substack.com/p/todays-featured-ai-tools-in-one-sentence-a82)
 
 [Today's Featured AI Tools In One Sentence (04/16/2024)](https://curatedaitools.substack.com/p/todays-featured-ai-tools-in-one-sentence-21e)
 
