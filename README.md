@@ -2,29 +2,31 @@
 
 [Subscribe to our newsletter](https://curatedaitools.substack.com/) to get a daily list of new AI tools & apps in your inbox.
 
-## Today's Featured AI Tools In One Sentence (04/18/2024)
+## Today's Featured AI Tools In One Sentence (04/19/2024)
 
-**[Brewit](https://brewit.ai/):** AI data analyst that answers your data questions.
+**[Meta AI](https://www.meta.ai/)**: Meta’s new AI chatbot based on Llama 3.
 
-**[Downtobid](https://downtobid.com/):** Turn Construction Plans Into Bid Invites in Minutes.
+**[Perfectbot](https://perfectbot.ai/):** Instantly resolve tickets with the smartest AI agent for Gorgias.
 
-**[Golinks](https://www.golinks.io/):** Access and share information instantly with intuitive, secure short links, called go links, and conversational search powered by generative AI.
+**[Tabnine](https://www.tabnine.com/):** The AI coding assistant that you control.
 
-**[Superwhisper](https://superwhisper.com/):** AI powered voice to text for macOS.
+**[Alphacorp](https://alphacorp.ai/):** Group Chat With AIs.
 
-**[useziggy](https://www.useziggy.com/):** Ziggy automates 1-on-1 conversations using AI, allowing you to conduct feedback interviews seamlessly with anyone, anytime.
+**[Shiftx](https://shiftx.com/):** Get control of your processes to optimize operations, ensure compliance and increase customer satisfaction.
 
-**[NSWR](https://www.nswr.ai/en):** An AI tool to answer all your comments in 1 click.
+**[Recurse](https://recurse.chat/):** Chat with Local LLM, offline and private.
 
-**[Spline](https://spline.design/):** 3D Design tool in the browser with real-time collaboration.
+**[Akool](https://akool.com/):** A breakthrough Generative AI platform for personalized visual marketing and advertising.
 
-**[Silatus](https://silatus.com/):** Generate fact-based reports on any subject.
+**[Reflectr](https://www.reflectr.ai/):** Journaling made easy with AI.
 
-**[Math Solver GPT](https://chat.openai.com/g/g-s9oRG1rWv-math-solver-gpt):** Get instant math solutions by uploading an image.
+**[Wisemap](https://wisemap.ai/):** Map Your Vision, Amplify Your Ideas with AI.
 
-**[Eazycaptions](https://eazycaptions.com/):** Use eye catching captions, sound effects and b-rolls to create and ship professional-looking videos for your audience.
+**[Tldv](https://tldv.io/):** Helps you (finally) get value from meetings across the organization.
 
 ## Archives
+
+[Today's Featured AI Tools In One Sentence (04/18/2024)](https://curatedaitools.substack.com/p/todays-featured-ai-tools-in-one-sentence-554)
 
 [Today's Featured AI Tools In One Sentence (04/17/2024)](https://curatedaitools.substack.com/p/todays-featured-ai-tools-in-one-sentence-a82)
 
