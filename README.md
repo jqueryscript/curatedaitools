@@ -2,29 +2,31 @@
 
 [Subscribe to our newsletter](https://curatedaitools.substack.com/) to get a daily list of new AI tools & apps in your inbox.
 
-## Today's Featured AI Tools In One Sentence (04/19/2024)
+## Today's Featured AI Tools In One Sentence (04/20/2024)
 
-**[Meta AI](https://www.meta.ai/)**: Meta’s new AI chatbot based on Llama 3.
+**[Promomix](https://www.promomix.ai/)**[:](https://www.promomix.ai/) Upload your short video and few configurations to get your voiceover Ssript.
 
-**[Perfectbot](https://perfectbot.ai/):** Instantly resolve tickets with the smartest AI agent for Gorgias.
+**[Grimo AI](https://go.grimo.ai/):** An AI notebook where you can build, grow & organize knowledge in one place.
 
-**[Tabnine](https://www.tabnine.com/):** The AI coding assistant that you control.
+**[Intercom](https://www.intercom.com/):** The complete AI-first customer service solution, giving exceptional experiences for support teams with AI agent, AI copilot, tickets, phone & more.
 
-**[Alphacorp](https://alphacorp.ai/):** Group Chat With AIs.
+**[Aiapply](https://aiapply.co/):** Automate Your Job Search With AI.
 
-**[Shiftx](https://shiftx.com/):** Get control of your processes to optimize operations, ensure compliance and increase customer satisfaction.
+**[Aiflash](https://aiflash.cards/):** The ultimate tool to quickly create personalized flashcards from any text or file.
 
-**[Recurse](https://recurse.chat/):** Chat with Local LLM, offline and private.
+**[Eazycaptions](https://eazycaptions.com/):** Use eye catching captions, sound effects and b-rolls to create and ship professional-looking videos for your audience.
 
-**[Akool](https://akool.com/):** A breakthrough Generative AI platform for personalized visual marketing and advertising.
+**[Odaptos](https://odaptos.com/):** Accelerate your user testing with artificial intelligence.
 
-**[Reflectr](https://www.reflectr.ai/):** Journaling made easy with AI.
+**[Listenrobo](https://listenrobo.com/):** Generate English Subtitles Online With Translation & Summarization.
 
-**[Wisemap](https://wisemap.ai/):** Map Your Vision, Amplify Your Ideas with AI.
+**[Infinity](https://studio.infinity.ai/):** Generative video models focused on people.
 
-**[Tldv](https://tldv.io/):** Helps you (finally) get value from meetings across the organization.
+**[Goenhance](https://www.goenhance.ai/):** Video to animation Platform, transform your videos into a variety of animated styles, including pixel and flat anime.
 
 ## Archives
+
+[Today's Featured AI Tools In One Sentence (04/19/2024)](https://curatedaitools.substack.com/p/todays-featured-ai-tools-in-one-sentence-7dd)
 
 [Today's Featured AI Tools In One Sentence (04/18/2024)](https://curatedaitools.substack.com/p/todays-featured-ai-tools-in-one-sentence-554)
 
