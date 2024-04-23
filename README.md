@@ -2,29 +2,31 @@
 
 [Subscribe to our newsletter](https://curatedaitools.substack.com/) to get a daily list of new AI tools & apps in your inbox.
 
-## Today's Featured AI Tools In One Sentence (04/22/2024)
+## Today's Featured AI Tools In One Sentence (04/23/2024)
 
-**[Stevie](https://aicenter.ai/stevie):** Start appearing on Google easily—no need for marketing experts or extra costs.
+**[Psikopedia](https://www.psikopedia.app/):** Learn with educational and instructive psychology content, follow the latest events and discover yourself with mindfulness practices.
 
-**[Parny](https://parny.io/):** Manage on-call, respond to alerts, follow incident flow like social media timeline and get reports of your status on Analytics page.
+**[Bentolingo](https://bentolingo.ai/):** Your daily AI language bento box.
 
-**[Kittl](https://www.kittl.com/):** Speed up your workflows with Kittl's AI-powered design tools and gain instant access to a ton of stunning illustrations, fonts, photos, icons, and textures.
+**[Secbrain](https://www.secbrain.ai/):** Save Your Ideas, Videos, Journeys, Meetings, and Everything in Between.
 
-**[Collato](https://collato.com/):** Turn your meetings into documents.
+**[Insights](https://www.ayraa.io/solutions/insights):** A New Dimension In Enterprise Search AI.
 
-**[Pieces](https://pieces.app/):** Your AI-enabled productivity tool designed to supercharge developer efficiency.
+**[Smartwriter](https://www.smartwriter.ai/):** Generate 1000s of Personalised Emails that get you 8x more replies within minutes using AI.
 
-**[Speedlegal](https://speedlegal.io/):** Your personal AI contract negotiator.
+**[Monterey](https://www.monterey.ai/):** Aggregate, triage, and analyze user feedback, tickets, conversations, surveys, and transcripts - smarter, together, and at scale.
 
-**[Seomaker](https://seomaker.ai/):** Get ahead of the competition and create 10X faster content for SEO, blogs, ads, websites, emails or social media.
+**[Usenucleus](https://usenucleus.ai/):** Helps product marketing teams figure out what to build and pitch at the speed of thought.
 
-**[Chat Uncensored AI](https://apps.apple.com/us/app/chat-uncensored-ai/id1662181831):** The Best April 2024 AI Model Made Unrestricted - No log in, *100% Private*, Super Fast.
+**[Langai](https://langai.io/):** Fully immerse yourself in a new language by chatting or speaking to an AI.
 
-**[Voxio](https://www.voxio.so/):** Convert recordings into nicely formatted text with one click.
+**[Excelmaster](https://excelmaster.ai/):** The Only Excel Formula and VBA AI assistant that approaches human-level expertise.
 
-**[Bytecap](https://www.bytecap.io/):** Immerse your videos with custom captions Boost engagement, maximize viewership and retain your audience.
+**[Wikipediaarticle](https://wikipediaarticle.com/):** Create And Edit A Wikipedia Page For You Or Your Company Using AI.
 
 ## Archives
+
+[Today's Featured AI Tools In One Sentence (04/22/2024)](https://curatedaitools.substack.com/p/todays-featured-ai-tools-in-one-sentence-dc9)
 
 [Today's Featured AI Tools In One Sentence (04/20/2024)](https://curatedaitools.substack.com/p/todays-featured-ai-tools-in-one-sentence-4b5)
 
