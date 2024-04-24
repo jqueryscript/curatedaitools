@@ -2,29 +2,31 @@
 
 [Subscribe to our newsletter](https://curatedaitools.substack.com/) to get a daily list of new AI tools & apps in your inbox.
 
-## Today's Featured AI Tools In One Sentence (04/23/2024)
+## Today's Featured AI Tools In One Sentence (04/24/2024)
 
-**[Psikopedia](https://www.psikopedia.app/):** Learn with educational and instructive psychology content, follow the latest events and discover yourself with mindfulness practices.
+**[Langwatch](https://langwatch.ai/):** Build AI solutions with quality, confidence, and safety.
 
-**[Bentolingo](https://bentolingo.ai/):** Your daily AI language bento box.
+**[Wizad](https://www.wizad.ai/):** Let AI take care of your content, market your brand like a Pro.
 
-**[Secbrain](https://www.secbrain.ai/):** Save Your Ideas, Videos, Journeys, Meetings, and Everything in Between.
+**[Itsdart](https://www.itsdart.com/):** The ultimate AI project management tool.
 
-**[Insights](https://www.ayraa.io/solutions/insights):** A New Dimension In Enterprise Search AI.
+**[Maestro](https://www.aboutamazon.com/news/entertainment/amazon-music-maestro-ai-playlist-generator):** Amazon’s new AI playlist generator.
 
-**[Smartwriter](https://www.smartwriter.ai/):** Generate 1000s of Personalised Emails that get you 8x more replies within minutes using AI.
+**[ai-jukebox](https://huggingface.co/spaces/enzostvs/ai-jukebox):** In-browser text-to-music generation.
 
-**[Monterey](https://www.monterey.ai/):** Aggregate, triage, and analyze user feedback, tickets, conversations, surveys, and transcripts - smarter, together, and at scale.
+**[Hyperaide](https://hyperaide.com/):** Your Personal Assistant for Getting Things Done.
 
-**[Usenucleus](https://usenucleus.ai/):** Helps product marketing teams figure out what to build and pitch at the speed of thought.
+**[Inboxly](https://inboxly.me/):** Your AI mailbox that organizes, prioritizes, and responds to messages from all platforms.
 
-**[Langai](https://langai.io/):** Fully immerse yourself in a new language by chatting or speaking to an AI.
+**[Higgsfield](https://higgsfield.ai/):** Foundational video model for social media.
 
-**[Excelmaster](https://excelmaster.ai/):** The Only Excel Formula and VBA AI assistant that approaches human-level expertise.
+**[Warmbox](https://www.warmbox.ai/):** Warm-up your cold email inbox. And never land in spam anymore.
 
-**[Wikipediaarticle](https://wikipediaarticle.com/):** Create And Edit A Wikipedia Page For You Or Your Company Using AI.
+**[Polywork](https://www.polywork.com/):** Turn your LinkedIn profile into a beautiful personal website in seconds with AI.
 
 ## Archives
+
+[Today's Featured AI Tools In One Sentence (04/23/2024)](https://curatedaitools.substack.com/p/todays-featured-ai-tools-in-one-sentence-1a4)
 
 [Today's Featured AI Tools In One Sentence (04/22/2024)](https://curatedaitools.substack.com/p/todays-featured-ai-tools-in-one-sentence-dc9)
 
