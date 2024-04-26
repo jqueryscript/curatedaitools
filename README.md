@@ -2,29 +2,31 @@
 
 [Subscribe to our newsletter](https://curatedaitools.substack.com/) to get a daily list of new AI tools & apps in your inbox.
 
-## Today's Featured AI Tools In One Sentence (04/24/2024)
+## Today's Featured AI Tools In One Sentence (04/26/2024)
 
-**[Langwatch](https://langwatch.ai/):** Build AI solutions with quality, confidence, and safety.
+**[Copycopter](https://copycopter.ai/):** Turn your blog into short videos in 1 click.
 
-**[Wizad](https://www.wizad.ai/):** Let AI take care of your content, market your brand like a Pro.
+**[Langfuse](https://langfuse.com/):** Open Source LLM Engineering Platform.
 
-**[Itsdart](https://www.itsdart.com/):** The ultimate AI project management tool.
+**[Resumephoto](https://www.resumephoto.ai/):** Professional Headshots For Everyone.
 
-**[Maestro](https://www.aboutamazon.com/news/entertainment/amazon-music-maestro-ai-playlist-generator):** Amazon’s new AI playlist generator.
+**[Hyravision](https://www.hyravision.com/):** The first-ever app designed for Apple Vision Pro that creates fully immersive scenes based on the book you’re reading, powered by AI.
 
-**[ai-jukebox](https://huggingface.co/spaces/enzostvs/ai-jukebox):** In-browser text-to-music generation.
+**[Aliagents](https://aliagents.ai/):** Discover Emotive and Expressive onchain AI Agents and how they’re revolutionizing creativity, ownership, monetization, and decentralization of AI.
 
-**[Hyperaide](https://hyperaide.com/):** Your Personal Assistant for Getting Things Done.
+**[Gems](https://www.gems.so/):** Get ready-to-use answers from all your knowledge and quit manual organization for good.
 
-**[Inboxly](https://inboxly.me/):** Your AI mailbox that organizes, prioritizes, and responds to messages from all platforms.
+**[Prompt2svg](https://prompt2svg.com/):** Generate SVGs from a text description.
 
-**[Higgsfield](https://higgsfield.ai/):** Foundational video model for social media.
+**[Bland](https://www.bland.ai/):** The infrastructure for building AI phone calling applications at scale.
 
-**[Warmbox](https://www.warmbox.ai/):** Warm-up your cold email inbox. And never land in spam anymore.
+**[Pitchbob](https://pitchbob.io/):** AI pitch deck generator & startup co-pilot.
 
-**[Polywork](https://www.polywork.com/):** Turn your LinkedIn profile into a beautiful personal website in seconds with AI.
+**[Genmeme](https://genmeme.ai/):** AI-driven meme generator that transforms your creative ideas into viral memes in seconds.
 
 ## Archives
+
+[Today's Featured AI Tools In One Sentence (04/24/2024)](https://curatedaitools.substack.com/p/todays-featured-ai-tools-in-one-sentence-acc)
 
 [Today's Featured AI Tools In One Sentence (04/23/2024)](https://curatedaitools.substack.com/p/todays-featured-ai-tools-in-one-sentence-1a4)
 
