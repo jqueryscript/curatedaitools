@@ -2,29 +2,31 @@
 
 [Subscribe to our newsletter](https://curatedaitools.substack.com/) to get a daily list of new AI tools & apps in your inbox.
 
-## Today's Featured AI Tools In One Sentence (04/26/2024)
+## Today's Featured AI Tools In One Sentence (04/27/2024)
 
-**[Copycopter](https://copycopter.ai/):** Turn your blog into short videos in 1 click.
+**[Webtastic](https://webtastic.ai/):** Your AI Sales Agent.
 
-**[Langfuse](https://langfuse.com/):** Open Source LLM Engineering Platform.
+**[Scheduleai](https://scheduleai.co/):** AI Powered appointment scheduling.
 
-**[Resumephoto](https://www.resumephoto.ai/):** Professional Headshots For Everyone.
+**[Trydub](https://www.trydub.com/):** Translate and dub your videos effortlessly and expand your audience globally with AI-powered voice cloning and translation.
 
-**[Hyravision](https://www.hyravision.com/):** The first-ever app designed for Apple Vision Pro that creates fully immersive scenes based on the book you’re reading, powered by AI.
+**[Summie](https://www.summie.ai/):** Record with your phone and get accurate summaries, key takeaways and action items. Fully automated. GDPR compliant.
 
-**[Aliagents](https://aliagents.ai/):** Discover Emotive and Expressive onchain AI Agents and how they’re revolutionizing creativity, ownership, monetization, and decentralization of AI.
+**[Exemplary](https://exemplary.ai/):** Instant Content Creation & Repurpose Video with AI.
 
-**[Gems](https://www.gems.so/):** Get ready-to-use answers from all your knowledge and quit manual organization for good.
+**[Langtail](https://langtail.com/):** Ship AI Apps With Fewer Surprises.
 
-**[Prompt2svg](https://prompt2svg.com/):** Generate SVGs from a text description.
+**[Wikipediaarticle](https://wikipediaarticle.com/):** Create And Edit A Wikipedia Page For You Or Your Company Using AI.
 
-**[Bland](https://www.bland.ai/):** The infrastructure for building AI phone calling applications at scale.
+**[Seatext](https://seatext.com/):** The first AI model to automatically improve your website's sales by up to 35%.
 
-**[Pitchbob](https://pitchbob.io/):** AI pitch deck generator & startup co-pilot.
+**[Bluegpt](https://bluegpt.app/):** Access all AI models in one place.
 
-**[Genmeme](https://genmeme.ai/):** AI-driven meme generator that transforms your creative ideas into viral memes in seconds.
+**[Ixord](https://note.ixord.com/):** Your personal organizer and assistant for planning, task management and goal achievement.
 
 ## Archives
+
+[Today's Featured AI Tools In One Sentence (04/26/2024)](https://curatedaitools.substack.com/p/todays-featured-ai-tools-in-one-sentence-87c)
 
 [Today's Featured AI Tools In One Sentence (04/24/2024)](https://curatedaitools.substack.com/p/todays-featured-ai-tools-in-one-sentence-acc)
 
