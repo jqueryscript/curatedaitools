@@ -2,29 +2,31 @@
 
 [Subscribe to our newsletter](https://curatedaitools.substack.com/) to get a daily list of new AI tools & apps in your inbox.
 
-## Today's Featured AI Tools In One Sentence (04/27/2024)
+## Today's Featured AI Tools In One Sentence (04/29/2024)
 
-**[Webtastic](https://webtastic.ai/):** Your AI Sales Agent.
+**[Professorai](https://www.professorai.co/):** An AI based Advanced Course assistant for enhanced education.
 
-**[Scheduleai](https://scheduleai.co/):** AI Powered appointment scheduling.
+**[Intellecta](https://intellecta.io/):** Intellecta AI instantly responds to customers via chat, social media, or email – in any language.
 
-**[Trydub](https://www.trydub.com/):** Translate and dub your videos effortlessly and expand your audience globally with AI-powered voice cloning and translation.
+**[Play AI](https://play.ai/):** Seamless, natural conversations with voice AI.
 
-**[Summie](https://www.summie.ai/):** Record with your phone and get accurate summaries, key takeaways and action items. Fully automated. GDPR compliant.
+**[Moodboardai](https://moodboardai.com/):** The ultimate AI mood board generator and maker.
 
-**[Exemplary](https://exemplary.ai/):** Instant Content Creation & Repurpose Video with AI.
+**[Relevanceai](https://relevanceai.com/):** Enabling anyone to build autonomous AI teams and put their processes on autopilot.
 
-**[Langtail](https://langtail.com/):** Ship AI Apps With Fewer Surprises.
+**[Simone](https://github.com/rajtilakjee/simone):** Repurpose your videos by converting them into blog posts with context-aware screenshots.
 
-**[Wikipediaarticle](https://wikipediaarticle.com/):** Create And Edit A Wikipedia Page For You Or Your Company Using AI.
+**[IXORD Notes](https://note.ixord.com/):** Your personal organizer and assistant for planning, task management and goal achievement.
 
-**[Seatext](https://seatext.com/):** The first AI model to automatically improve your website's sales by up to 35%.
+**[August](https://www.getbeyondhealth.com/):** A free to use Health AI available on Whatsapp.
 
-**[Bluegpt](https://bluegpt.app/):** Access all AI models in one place.
+**[Incymo](https://incymo.ai/):** Develops AI-based smart products for performance marketing and in-app monetization.
 
-**[Ixord](https://note.ixord.com/):** Your personal organizer and assistant for planning, task management and goal achievement.
+**[Acrylbooks](https://www.acrylbooks.com/):** Turn your books into audiobooks.
 
 ## Archives
+
+[Today's Featured AI Tools In One Sentence (04/27/2024)](https://curatedaitools.substack.com/p/todays-featured-ai-tools-in-one-sentence-00e)
 
 [Today's Featured AI Tools In One Sentence (04/26/2024)](https://curatedaitools.substack.com/p/todays-featured-ai-tools-in-one-sentence-87c)
 
