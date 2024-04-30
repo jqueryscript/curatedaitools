@@ -2,29 +2,31 @@
 
 [Subscribe to our newsletter](https://curatedaitools.substack.com/) to get a daily list of new AI tools & apps in your inbox.
 
-## Today's Featured AI Tools In One Sentence (04/29/2024)
+## Today's Featured AI Tools In One Sentence (04/30/2024)
 
-**[Professorai](https://www.professorai.co/):** An AI based Advanced Course assistant for enhanced education.
+**[Sales AI Chatbot](https://reply.io/ai-chatbot/):** Reply Sales Trained Al Chat with Video Avatar.
 
-**[Intellecta](https://intellecta.io/):** Intellecta AI instantly responds to customers via chat, social media, or email – in any language.
+**[Otterly](https://otterly.ai/app/):** The new way in content & brand monitoring for AI-powered Search Experiences.
 
-**[Play AI](https://play.ai/):** Seamless, natural conversations with voice AI.
+**[Outerbase](https://www.outerbase.com/):** AI-powered database platform for viewing, querying, visualizing, and editing your data.
 
-**[Moodboardai](https://moodboardai.com/):** The ultimate AI mood board generator and maker.
+**[Vibecheck Market](https://www.scriptbyai.com/):** Find the truly best products with Vibecheck Market's AI-powered shopping assistant that delivers top picks based on genuine user feedback.
 
-**[Relevanceai](https://relevanceai.com/):** Enabling anyone to build autonomous AI teams and put their processes on autopilot.
+**[8vdx](https://www.8vdx.com/):** AI-powered investment and fundraising solutions: connecting stakeholders with deep insights.
 
-**[Simone](https://github.com/rajtilakjee/simone):** Repurpose your videos by converting them into blog posts with context-aware screenshots.
+**[Myinstaclass](https://myinstaclass.com/):** Instaclass lets you create a class on anything you want, using the best content that's already on the internet!
 
-**[IXORD Notes](https://note.ixord.com/):** Your personal organizer and assistant for planning, task management and goal achievement.
+**[Uptrends](https://www.uptrends.ai/):** Get real-time alerts for price, sentiment, and mentions, and explore market-moving events affecting stocks prices.
 
-**[August](https://www.getbeyondhealth.com/):** A free to use Health AI available on Whatsapp.
+**[Aiornot](https://www.aiornot.com/):** Detect AI-generated images & audio for your business - and yourself.
 
-**[Incymo](https://incymo.ai/):** Develops AI-based smart products for performance marketing and in-app monetization.
+**[Astronuts](https://www.astronuts.io/):** AI for code reviews and error resolutions.
 
-**[Acrylbooks](https://www.acrylbooks.com/):** Turn your books into audiobooks.
+**[Allmindinvestments](https://www.intrvu.space/):** Your Personal AI-Powered Financial Investment Analyst.
 
 ## Archives
+
+[Today's Featured AI Tools In One Sentence (04/29/2024)](https://curatedaitools.substack.com/p/todays-featured-ai-tools-in-one-sentence-a28)
 
 [Today's Featured AI Tools In One Sentence (04/27/2024)](https://curatedaitools.substack.com/p/todays-featured-ai-tools-in-one-sentence-00e)
 
