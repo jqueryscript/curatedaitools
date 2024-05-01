@@ -2,29 +2,31 @@
 
 [Subscribe to our newsletter](https://curatedaitools.substack.com/) to get a daily list of new AI tools & apps in your inbox.
 
-## Today's Featured AI Tools In One Sentence (04/30/2024)
+## Today's Featured AI Tools In One Sentence (05/01/2024)
 
-**[Sales AI Chatbot](https://reply.io/ai-chatbot/):** Reply Sales Trained Al Chat with Video Avatar.
+**[Sprig](https://www.sprig.com/):** Uncover user feedback and behavior trends at scale to build products people love—all in one platform.
 
-**[Otterly](https://otterly.ai/app/):** The new way in content & brand monitoring for AI-powered Search Experiences.
+**[Tryrankify](https://www.tryrankify.com/):** AI SEO Keyword Research that actually works.
 
-**[Outerbase](https://www.outerbase.com/):** AI-powered database platform for viewing, querying, visualizing, and editing your data.
+**[Noodle4](https://www.noodle4.com/):** Review your UGC & Influencer content at scale with AI.
 
-**[Vibecheck Market](https://www.scriptbyai.com/):** Find the truly best products with Vibecheck Market's AI-powered shopping assistant that delivers top picks based on genuine user feedback.
+**[Journable](https://www.journable.com/):** Track your diet and exercise is as easy as having a conversation.
 
-**[8vdx](https://www.8vdx.com/):** AI-powered investment and fundraising solutions: connecting stakeholders with deep insights.
+**[Leadsourcing](https://leadsourcing.co/):** Your AI-powered Sales Representative.
 
-**[Myinstaclass](https://myinstaclass.com/):** Instaclass lets you create a class on anything you want, using the best content that's already on the internet!
+**[GPT Workspace](https://gpt.space/):** Boost your productivity with Gemini and ChatGPT directly inside your Google Docs, Sheets, Slides, Drive, and Gmail.
 
-**[Uptrends](https://www.uptrends.ai/):** Get real-time alerts for price, sentiment, and mentions, and explore market-moving events affecting stocks prices.
+**[Airparser](https://airparser.com/):** Revolutionize data extraction with the GPT parser.
 
-**[Aiornot](https://www.aiornot.com/):** Detect AI-generated images & audio for your business - and yourself.
+**[Emojitell](https://www.emojitell.com/):** Convert your text into fun and expressive emoji combinations.
 
-**[Astronuts](https://www.astronuts.io/):** AI for code reviews and error resolutions.
+**[Intrvu](https://www.intrvu.space/):** Your End-to-End Automated AI Interview Agent.
 
-**[Allmindinvestments](https://www.intrvu.space/):** Your Personal AI-Powered Financial Investment Analyst.
+**[Showscriber](https://showscriber.com/):** Transcribe, summarize, and chapterize your podcast automagically.
 
 ## Archives
+
+[Today's Featured AI Tools In One Sentence (04/30/2024)](https://curatedaitools.substack.com/p/todays-featured-ai-tools-in-one-sentence-f2f)
 
 [Today's Featured AI Tools In One Sentence (04/29/2024)](https://curatedaitools.substack.com/p/todays-featured-ai-tools-in-one-sentence-a28)
 
