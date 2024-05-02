@@ -2,29 +2,31 @@
 
 [Subscribe to our newsletter](https://curatedaitools.substack.com/) to get a daily list of new AI tools & apps in your inbox.
 
-## Today's Featured AI Tools In One Sentence (05/01/2024)
+## Today's Featured AI Tools In One Sentence (05/02/2024)
 
-**[Sprig](https://www.sprig.com/):** Uncover user feedback and behavior trends at scale to build products people love—all in one platform.
+**[Querypal](https://www.querypal.com/?ref=scriptbyai):** Get better, faster answers for your whole team with an AI chatbot trained on your company documents.
 
-**[Tryrankify](https://www.tryrankify.com/):** AI SEO Keyword Research that actually works.
+**[Waxwing](https://www.waxwing.ai/?ref=scriptbyai):** AI powered Project management tool for growth marketers.
 
-**[Noodle4](https://www.noodle4.com/):** Review your UGC & Influencer content at scale with AI.
+**[Dashworks](https://www.dashworks.ai//?ref=scriptbyai):** Instant AI answers for all your team’s questions.
 
-**[Journable](https://www.journable.com/):** Track your diet and exercise is as easy as having a conversation.
+**[Aibot](https://www.aibot.how/?ref=scriptbyai):** No-code AI Assistant Builder - Use Models like OpenAI, Claude 3 and Azure.
 
-**[Leadsourcing](https://leadsourcing.co/):** Your AI-powered Sales Representative.
+**[1flow](https://1flow.ai/?ref=scriptbyai):** Understand what users want and how they feel, in the moment.
 
-**[GPT Workspace](https://gpt.space/):** Boost your productivity with Gemini and ChatGPT directly inside your Google Docs, Sheets, Slides, Drive, and Gmail.
+**[Direqt](https://www.direqt.ai/?ref=scriptbyai):** Chat with every one of your readers, anywhere on your site. With AI.
 
-**[Airparser](https://airparser.com/):** Revolutionize data extraction with the GPT parser.
+**[Firecrawl](https://www.direqt.ai/?ref=scriptbyai):** Turn websites into LLM-ready data.
 
-**[Emojitell](https://www.emojitell.com/):** Convert your text into fun and expressive emoji combinations.
+**[Wordtune](https://www.wordtune.com/?ref=scriptbyai):** Unlock your creativity and supercharge your productivity with Wordtune’s GenAI platform.
 
-**[Intrvu](https://www.intrvu.space/):** Your End-to-End Automated AI Interview Agent.
+**[Buildchatbot](https://buildchatbot.ai//?ref=scriptbyai):** Save your visitors hours of searching and scrolling through your website.
 
-**[Showscriber](https://showscriber.com/):** Transcribe, summarize, and chapterize your podcast automagically.
+**[Taskbase](https://taskbase.co.uk/?ref=scriptbyai):** Top global assistants, super-powered by AI.
 
 ## Archives
+
+[Today's Featured AI Tools In One Sentence (05/01/2024)](https://curatedaitools.substack.com/p/todays-featured-ai-tools-in-one-sentence-1d7)
 
 [Today's Featured AI Tools In One Sentence (04/30/2024)](https://curatedaitools.substack.com/p/todays-featured-ai-tools-in-one-sentence-f2f)
 
