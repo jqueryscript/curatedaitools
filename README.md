@@ -2,29 +2,31 @@
 
 [Subscribe to our newsletter](https://curatedaitools.substack.com/) to get a daily list of new AI tools & apps in your inbox.
 
-## Today's Featured AI Tools In One Sentence (05/02/2024)
+## Today's Featured AI Tools In One Sentence (05/03/2024)
 
-**[Querypal](https://www.querypal.com/?ref=scriptbyai):** Get better, faster answers for your whole team with an AI chatbot trained on your company documents.
+**[Synthesia](https://www.synthesia.io/):** Create studio-quality videos with AI avatars and voiceovers in 130+ languages.
 
-**[Waxwing](https://www.waxwing.ai/?ref=scriptbyai):** AI powered Project management tool for growth marketers.
+**[Braintrust](https://www.usebraintrust.com/):** The all-in-one hiring solution, now with AI.
 
-**[Dashworks](https://www.dashworks.ai//?ref=scriptbyai):** Instant AI answers for all your team’s questions.
+**[Hoshai](https://hoshai.com/):** A comprehensive Artificial Intelligence platform for generating content leveraging OpenAI's ChatGPT 4 Turbo.
 
-**[Aibot](https://www.aibot.how/?ref=scriptbyai):** No-code AI Assistant Builder - Use Models like OpenAI, Claude 3 and Azure.
+**[Answerti](https://answerti.me/):** Quick, effective user research—powered by AI.
 
-**[1flow](https://1flow.ai/?ref=scriptbyai):** Understand what users want and how they feel, in the moment.
+**[Mubert](https://mubert.com/):** The new royalty-free AI music ecosystem for content creators, brands and developers.
 
-**[Direqt](https://www.direqt.ai/?ref=scriptbyai):** Chat with every one of your readers, anywhere on your site. With AI.
+**[Abstra](https://www.abstra.io/):** Scale business processes with Python + AI.
 
-**[Firecrawl](https://www.direqt.ai/?ref=scriptbyai):** Turn websites into LLM-ready data.
+**[Happily](https://www.happily.ai/):** The AI-first toolkit that helps HR and managers drive top talent retention and team productivity with hassle-free engagement, recognition, and performance management.
 
-**[Wordtune](https://www.wordtune.com/?ref=scriptbyai):** Unlock your creativity and supercharge your productivity with Wordtune’s GenAI platform.
+**[Localsumm](https://github.com/samrawal/localsumm):** Fast, 100% local web page summarization with the Microsoft Phi-3 LLM!
 
-**[Buildchatbot](https://buildchatbot.ai//?ref=scriptbyai):** Save your visitors hours of searching and scrolling through your website.
+**[Brandblast](https://www.brandblast.ai/):** The AI learns from your website to create and automatically post engaging content for your brand.
 
-**[Taskbase](https://taskbase.co.uk/?ref=scriptbyai):** Top global assistants, super-powered by AI.
+**[Textmine](https://textmine.com/):** Use AI to analyse your unstructured textual data and document databases.
 
 ## Archives
+
+[Today's Featured AI Tools In One Sentence (05/02/2024)](https://curatedaitools.substack.com/p/todays-featured-ai-tools-in-one-sentence-db2)
 
 [Today's Featured AI Tools In One Sentence (05/01/2024)](https://curatedaitools.substack.com/p/todays-featured-ai-tools-in-one-sentence-1d7)
 
