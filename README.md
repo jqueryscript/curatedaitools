@@ -2,29 +2,31 @@
 
 [Subscribe to our newsletter](https://curatedaitools.substack.com/) to get a daily list of new AI tools & apps in your inbox.
 
-## Today's Featured AI Tools In One Sentence (05/03/2024)
+## Today's Featured AI Tools In One Sentence (05/04/2024)
 
-**[Synthesia](https://www.synthesia.io/):** Create studio-quality videos with AI avatars and voiceovers in 130+ languages.
+**[Usemeaning](https://www.usemeaning.com/):** The world's first AI Screen Time Coach.
 
-**[Braintrust](https://www.usebraintrust.com/):** The all-in-one hiring solution, now with AI.
+**[Creatoorai](https://creatoorai.com/):** Clone Yourself Create Premium Videos in Seconds.
 
-**[Hoshai](https://hoshai.com/):** A comprehensive Artificial Intelligence platform for generating content leveraging OpenAI's ChatGPT 4 Turbo.
+**[Ailogomakerr](https://ailogomakerr.com/):** Create a logo with AI Logo Maker.
 
-**[Answerti](https://answerti.me/):** Quick, effective user research—powered by AI.
+**[Quizgecko](https://quizgecko.com/):** Automatically generate online quizzes, tests, and exams to level up your learning.
 
-**[Mubert](https://mubert.com/):** The new royalty-free AI music ecosystem for content creators, brands and developers.
+**[Myaskai](https://myaskai.com/):** Deflect 75% of support requests with an AI support agent.
 
-**[Abstra](https://www.abstra.io/):** Scale business processes with Python + AI.
+**[Candle](https://candle.fi/):** Your money, streamlined & connected, all in your pocket.
 
-**[Happily](https://www.happily.ai/):** The AI-first toolkit that helps HR and managers drive top talent retention and team productivity with hassle-free engagement, recognition, and performance management.
+**[Userscom](https://userscom.com/):** A simple & modern ticketing tool for everyone.
 
-**[Localsumm](https://github.com/samrawal/localsumm):** Fast, 100% local web page summarization with the Microsoft Phi-3 LLM!
+**[Demodesk](https://demodesk.com/):** AI that summarizes your calls, automates CRM management, and delivers personalized, actionable sales coaching.
 
-**[Brandblast](https://www.brandblast.ai/):** The AI learns from your website to create and automatically post engaging content for your brand.
+**[Vectorshift](https://www.vectorshift.ai/):** An integrated framework of no-code, low-code, and out of the box generative AI solutions to build AI search engines, assistants, chatbots, and automations.
 
-**[Textmine](https://textmine.com/):** Use AI to analyse your unstructured textual data and document databases.
+**[Scholarcy](https://www.scholarcy.com/):** Summarize anything, understand complex research, and organise your knowledge with AI.
 
 ## Archives
+
+[Today's Featured AI Tools In One Sentence (05/03/2024)](https://curatedaitools.substack.com/p/todays-featured-ai-tools-in-one-sentence-025)
 
 [Today's Featured AI Tools In One Sentence (05/02/2024)](https://curatedaitools.substack.com/p/todays-featured-ai-tools-in-one-sentence-db2)
 
