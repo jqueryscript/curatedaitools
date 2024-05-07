@@ -2,29 +2,31 @@
 
 [Subscribe to our newsletter](https://curatedaitools.substack.com/) to get a daily list of new AI tools & apps in your inbox.
 
-## Today's Featured AI Tools In One Sentence (05/06/2024)
+## Today's Featured AI Tools In One Sentence (05/07/2024)
 
-**[Logome](https://www.logome.ai/):** Design your stunning brand logo with AI.
+**[Affine AI](https://affine.pro/ai):** Your AI Partner Helps You Better Write, Draw and Present.
 
-**[Aurwy](https://aurwy.com/):** An AI platform that eases your next steps - the next era of art, entertainment and human creativity.
+**[Storyville](https://storyville.app/):** Create personalized children's stories using the magic of AI.
 
-**[Branding5](https://www.branding5.com/):** Find your positioning, get your marketing strategy and increase your revenue with our AI-powered brand positioning & strategy toolkit.
+**[Lamini](https://www.lamini.ai/):** Lamini makes it possible for enterprises to turn proprietary data into the next generation of LLM capabilities, by offering a platform for in-house software teams to uplevel to OpenAI-level AI teams and to build within the security of their existing infrastructure.
 
-**[Ilus](https://ilus.ai/):** Get beautiful, stylistically consistent illustrations using AI.
+**[Supertone Shift](https://product.supertone.ai/):** Real-Time Voice Changer.
 
-**[Docshound](https://docshound.com/):** Knowledge base software, reimagined with AI.
+**[Callbudai](https://callbudai.com/):** AI That Makes Your Appointment Calls!
 
-**[Ailawyer](https://ailawyer.pro/):** Your personal legal AI assistant.
+**[Strobe](https://strobe.app/):** Strobe makes it easy to evaluate and manage creator partnerships at scale.
 
-**[Chaingpt](https://www.chaingpt.org/):** ChainGPT offers the fastest growing AI technology for all Crypto and Blockchain related topics.
+**[Kraftful](https://www.kraftful.com/):** Reviews, surveys, calls, support tickets — analyzed in minutes.
 
-**[Contentpie](https://www.contentpie.ai/):** Grow Organic Traffic with AI-Powered Content Creation.
+**[Nooks](https://www.nooks.ai/):** AI Powered Parallel Dialer and Virtual Salesfloor.
 
-**[Seiright](https://www.seiright.com/):** Sei's AI agents sit alongside your risk and compliance teams, amplifying impact and scale.
+**[Padboat](https://www.padboat.com/):** The go-to sales readiness platform to help your reps crush their cold calls.
 
-**[Pressmaster](https://www.pressmaster.ai/):** Plan, craft, and distribute press articles across a network of up to 3000 magazines using cutting-edge AI technology.
+**[Instatext](https://instatext.io/):** Improve your text with the most productive writing assistant, proofreader and editor.
 
 ## Archives
+
+[Today's Featured AI Tools In One Sentence (05/06/2024)](https://curatedaitools.substack.com/p/todays-featured-ai-tools-in-one-sentence-338)
 
 [Today's Featured AI Tools In One Sentence (05/04/2024)](https://curatedaitools.substack.com/p/todays-featured-ai-tools-in-one-sentence-0b8)
 
