@@ -2,29 +2,31 @@
 
 [Subscribe to our newsletter](https://curatedaitools.substack.com/) to get a daily list of new AI tools & apps in your inbox.
 
-## Today's Featured AI Tools In One Sentence (05/07/2024)
+## Today's Featured AI Tools In One Sentence (05/08/2024)
 
-**[Affine AI](https://affine.pro/ai):** Your AI Partner Helps You Better Write, Draw and Present.
+**[Datalab](https://www.datacamp.com/datalab):** Write code, run analyses, and share your data insights with AI.
 
-**[Storyville](https://storyville.app/):** Create personalized children's stories using the magic of AI.
+**[Ringly](https://www.voicecheap.ai/):** Replace your e-commerce customer service with an AI phone agent.
 
-**[Lamini](https://www.lamini.ai/):** Lamini makes it possible for enterprises to turn proprietary data into the next generation of LLM capabilities, by offering a platform for in-house software teams to uplevel to OpenAI-level AI teams and to build within the security of their existing infrastructure.
+**[Voicecheap](https://www.voicecheap.ai/):** Translate any video in any language.
 
-**[Supertone Shift](https://product.supertone.ai/):** Real-Time Voice Changer.
+**[Cronbot](https://www.cronbot.ai/):** Enhance your customer service by streamlining inquiries, qualifying leads and delivering exceptional experiences 24/7 through a no-code AI chatbot builder.
 
-**[Callbudai](https://callbudai.com/):** AI That Makes Your Appointment Calls!
+**[Productai](https://www.productai.photo/):** Create all your product photos, use them right away, and sell more and faster with AI.
 
-**[Strobe](https://strobe.app/):** Strobe makes it easy to evaluate and manage creator partnerships at scale.
+**[Sendfame](https://sendfame.com/):** Create epic content with celebrity video message with the AI generator in 1 click.
 
-**[Kraftful](https://www.kraftful.com/):** Reviews, surveys, calls, support tickets — analyzed in minutes.
+**[Supergrow](https://www.supergrow.ai/):** Get post ideas, craft engaging content and carousels, and effectively engage with your network to build your personal brand on LinkedIn, all in one simple platform.
 
-**[Nooks](https://www.nooks.ai/):** AI Powered Parallel Dialer and Virtual Salesfloor.
+**[Taxly](https://taxly.ai/):** AI-Powered Tax Assistant for Self-Employed.
 
-**[Padboat](https://www.padboat.com/):** The go-to sales readiness platform to help your reps crush their cold calls.
+**[Memary](https://github.com/kingjulio8238/memary):** Open-Source Longterm Memory for Autonomous Agents.
 
-**[Instatext](https://instatext.io/):** Improve your text with the most productive writing assistant, proofreader and editor.
+**[Echo](https://echo.win/):** AI Automatically Answers Your Phone Calls.
 
 ## Archives
+
+[Today's Featured AI Tools In One Sentence (05/07/2024)](https://curatedaitools.substack.com/p/todays-featured-ai-tools-in-one-sentence-b21)
 
 [Today's Featured AI Tools In One Sentence (05/06/2024)](https://curatedaitools.substack.com/p/todays-featured-ai-tools-in-one-sentence-338)
 
