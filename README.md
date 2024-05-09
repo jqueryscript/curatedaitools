@@ -2,29 +2,31 @@
 
 [Subscribe to our newsletter](https://curatedaitools.substack.com/) to get a daily list of new AI tools & apps in your inbox.
 
-## Today's Featured AI Tools In One Sentence (05/08/2024)
+## Today's Featured AI Tools In One Sentence (05/09/2024)
 
-**[Datalab](https://www.datacamp.com/datalab):** Write code, run analyses, and share your data insights with AI.
+**[Talentgenius](https://talentgenius.io/):** Help professionals accelerate their careers in the age of AI with next gen platforms.
 
-**[Ringly](https://www.voicecheap.ai/):** Replace your e-commerce customer service with an AI phone agent.
+**[Replicastudios](https://www.replicastudios.com/):** Voice AI and Text To Speech.
 
-**[Voicecheap](https://www.voicecheap.ai/):** Translate any video in any language.
+**[Reword](https://reword.com/):** Write people-first articles with an AI trained by you.
 
-**[Cronbot](https://www.cronbot.ai/):** Enhance your customer service by streamlining inquiries, qualifying leads and delivering exceptional experiences 24/7 through a no-code AI chatbot builder.
+**[Peoplecq](https://www.peoplecq.com/):** Leverage cutting edge AI to: Simplify JD creation, build your hiring presence, assess top candidates, and seamlessly identify your perfect hire.
 
-**[Productai](https://www.productai.photo/):** Create all your product photos, use them right away, and sell more and faster with AI.
+**[Getcarg](https://www.getcargo.io/):** Build AI workflows that drive revenue.
 
-**[Sendfame](https://sendfame.com/):** Create epic content with celebrity video message with the AI generator in 1 click.
+**[llama3.js](https://github.com/frost-beta/llama3.js):** A JavaScript implementation of Llama 3 using node-mlx.
 
-**[Supergrow](https://www.supergrow.ai/):** Get post ideas, craft engaging content and carousels, and effectively engage with your network to build your personal brand on LinkedIn, all in one simple platform.
+**[Brightdata](https://brightdata.com/):** Award-winning proxy networks, AI-powered web scrapers, and business-ready datasets for download.
 
-**[Taxly](https://taxly.ai/):** AI-Powered Tax Assistant for Self-Employed.
+**[Webscrapeai](https://webscrapeai.com/):** The perfect tool for collecting data from the web without the hassle of manual scraping.
 
-**[Memary](https://github.com/kingjulio8238/memary):** Open-Source Longterm Memory for Autonomous Agents.
+**[Chatthing](https://chatthing.ai/):** Chat Thing gives you the tools to make AI assistants trained on your content.
 
-**[Echo](https://echo.win/):** AI Automatically Answers Your Phone Calls.
+**[Virtualfantasy](https://www.virtualfantasy.ai/):** esign your own AI virtual companion tailored to your specific requirements.
 
 ## Archives
+
+[Today's Featured AI Tools In One Sentence (05/08/2024)](https://curatedaitools.substack.com/p/todays-featured-ai-tools-in-one-sentence-728)
 
 [Today's Featured AI Tools In One Sentence (05/07/2024)](https://curatedaitools.substack.com/p/todays-featured-ai-tools-in-one-sentence-b21)
 
