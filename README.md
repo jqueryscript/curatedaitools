@@ -2,29 +2,31 @@
 
 [Subscribe to our newsletter](https://curatedaitools.substack.com/) to get a daily list of new AI tools & apps in your inbox.
 
-## Today's Featured AI Tools In One Sentence (05/09/2024)
+## Today's Featured AI Tools In One Sentence (05/10/2024)
 
-**[Talentgenius](https://talentgenius.io/):** Help professionals accelerate their careers in the age of AI with next gen platforms.
+**[Jetsnaps](https://jetsnaps.com/):** Generate youtube shorts using AI. Automate daily reels and snaps using AI.
 
-**[Replicastudios](https://www.replicastudios.com/):** Voice AI and Text To Speech.
+**[Manyexcel](https://manyexcel.com/):** Generate Formulas for Excel and Google Sheets in seconds with AI.
 
-**[Reword](https://reword.com/):** Write people-first articles with an AI trained by you.
+**[Otto](https://www.landing.ottowrites.co/):** Your personal AI biographer that records your memories and turns them into published stories.
 
-**[Peoplecq](https://www.peoplecq.com/):** Leverage cutting edge AI to: Simplify JD creation, build your hiring presence, assess top candidates, and seamlessly identify your perfect hire.
+**[Facia](https://facia.ai/):** Verify anyone from anywhere in under one second.
 
-**[Getcarg](https://www.getcargo.io/):** Build AI workflows that drive revenue.
+**[illumidesk](https://www.illumidesk.com/):** Automagically create courses with A.I.
 
-**[llama3.js](https://github.com/frost-beta/llama3.js):** A JavaScript implementation of Llama 3 using node-mlx.
+**[Retinello](https://retinello.com/):** Create flashcards, learn with AI and spaced repetition, use AI for quizzes, chat with documents, and more.
 
-**[Brightdata](https://brightdata.com/):** Award-winning proxy networks, AI-powered web scrapers, and business-ready datasets for download.
+**[Vizly](https://vizly.fyi/):** An AI-powered data scientist that lets you chat with your data, visualize insights, and perform analysis.
 
-**[Webscrapeai](https://webscrapeai.com/):** The perfect tool for collecting data from the web without the hassle of manual scraping.
+**[Yescribe](https://yescribe.ai/):** AI-powered transcription of audio/video into text, helps you focus on what's really important.
 
-**[Chatthing](https://chatthing.ai/):** Chat Thing gives you the tools to make AI assistants trained on your content.
+**[Virtualfantasy](https://www.virtualfantasy.ai/):** Connect with your ideal AI companion. Choose from male, female, or transgender AI personalities and embark on a journey of companionship and understanding , judgement free.
 
-**[Virtualfantasy](https://www.virtualfantasy.ai/):** esign your own AI virtual companion tailored to your specific requirements.
+**[Truewind](https://www.truewind.ai/):** Bringing generative AI to power accounting workflow automation for accounting firms and world-class bookkeeping services for startups and SMBs.
 
 ## Archives
+
+[Today's Featured AI Tools In One Sentence (05/09/2024)](https://curatedaitools.substack.com/p/todays-featured-ai-tools-in-one-sentence-708)
 
 [Today's Featured AI Tools In One Sentence (05/08/2024)](https://curatedaitools.substack.com/p/todays-featured-ai-tools-in-one-sentence-728)
 
