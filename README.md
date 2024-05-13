@@ -2,29 +2,31 @@
 
 [Subscribe to our newsletter](https://curatedaitools.substack.com/) to get a daily list of new AI tools & apps in your inbox.
 
-## Today's Featured AI Tools In One Sentence (05/10/2024)
+## Today's Featured AI Tools In One Sentence (05/13/2024)
 
-**[Jetsnaps](https://jetsnaps.com/):** Generate youtube shorts using AI. Automate daily reels and snaps using AI.
+**[Mailmodo](https://www.mailmodo.com/):** Quickly send interactive emails and set up automations powered by AI that will grow your numbers in your sleep.
 
-**[Manyexcel](https://manyexcel.com/):** Generate Formulas for Excel and Google Sheets in seconds with AI.
+**[Stunning](https://stunning.so/):** Build websites in seconds with AI.
 
-**[Otto](https://www.landing.ottowrites.co/):** Your personal AI biographer that records your memories and turns them into published stories.
+**[Boodlebox](https://boodlebox.ai/):** The simplest and most secure platform for group collaboration with GenAI – combining the **top AI models**, **over 1,000 custom GPTs, your docs**, and **your entire team** in the most epic GroupChat.
 
-**[Facia](https://facia.ai/):** Verify anyone from anywhere in under one second.
+**[Commenter](https://commenter.ai/):** Increase your business visibility with a click while saving hours of your week.
 
-**[illumidesk](https://www.illumidesk.com/):** Automagically create courses with A.I.
+**[Askvideo](https://www.askvideo.ai/):** Simple Chat with Any Youtube Video.
 
-**[Retinello](https://retinello.com/):** Create flashcards, learn with AI and spaced repetition, use AI for quizzes, chat with documents, and more.
+**[Pecan](https://www.pecan.ai/):** Pecan’s Predictive GenAI turns analysts into predictive powerhouses.
 
-**[Vizly](https://vizly.fyi/):** An AI-powered data scientist that lets you chat with your data, visualize insights, and perform analysis.
+**[Warpvideo](https://warpvideo.ai/):** The all-in-one AI video creation platform that streamlines content production from ideation to production.
 
-**[Yescribe](https://yescribe.ai/):** AI-powered transcription of audio/video into text, helps you focus on what's really important.
+**[Wildmoose](https://www.wildmoose.ai/):** Wild Moose helps on-call developers more quickly identify the source of production incidents, by providing a conversational AI trained on their environment.
 
-**[Virtualfantasy](https://www.virtualfantasy.ai/):** Connect with your ideal AI companion. Choose from male, female, or transgender AI personalities and embark on a journey of companionship and understanding , judgement free.
+**[Transcribeme](https://www.transcribeme.app/us/home):** Convert WhatsApp and Telegram voice notes to text.
 
-**[Truewind](https://www.truewind.ai/):** Bringing generative AI to power accounting workflow automation for accounting firms and world-class bookkeeping services for startups and SMBs.
+**[Elliottapp](https://www.elliottapp.com/):** AI product descriptions for Shopify stores.
 
 ## Archives
+
+[Today's Featured AI Tools In One Sentence (05/10/2024)](https://curatedaitools.substack.com/p/todays-featured-ai-tools-in-one-sentence-890)
 
 [Today's Featured AI Tools In One Sentence (05/09/2024)](https://curatedaitools.substack.com/p/todays-featured-ai-tools-in-one-sentence-708)
 
