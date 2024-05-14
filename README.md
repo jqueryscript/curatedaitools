@@ -4,27 +4,29 @@
 
 ## Today's Featured AI Tools In One Sentence (05/13/2024)
 
-**[Mailmodo](https://www.mailmodo.com/):** Quickly send interactive emails and set up automations powered by AI that will grow your numbers in your sleep.
+**[CustomerIQ](https://www.getcustomeriq.com/):** An AI platform to aggregate all your customer feedback, quantify customer needs, and accelerate revenue-driving workflows with AI.
 
-**[Stunning](https://stunning.so/):** Build websites in seconds with AI.
+**[Sofabrain](https://sofabrain.com/):** An AI powered Interior Design app and staging simulator.
 
-**[Boodlebox](https://boodlebox.ai/):** The simplest and most secure platform for group collaboration with GenAI – combining the **top AI models**, **over 1,000 custom GPTs, your docs**, and **your entire team** in the most epic GroupChat.
+**[shortlistIQ](https://www.shortlistiq.com/):** AI Recruiting: Screening Candidates Effectively.
 
-**[Commenter](https://commenter.ai/):** Increase your business visibility with a click while saving hours of your week.
+**[Lune](https://lunelearning.com/):** Use AI to teach you languages quickly and dynamically.
 
-**[Askvideo](https://www.askvideo.ai/):** Simple Chat with Any Youtube Video.
+**[Stoic](https://www.getstoic.com/):** Improve your mental health with all the tools you need to live a happier life.
 
-**[Pecan](https://www.pecan.ai/):** Pecan’s Predictive GenAI turns analysts into predictive powerhouses.
+**[Watchful AI](https://www.watchfulai.co/):** Revolutionize the way you care for your loved ones - from babies to the elderly.
 
-**[Warpvideo](https://warpvideo.ai/):** The all-in-one AI video creation platform that streamlines content production from ideation to production.
+**[Fynk](https://fynk.com/en/):** Create, edit, negotiate and sign contracts quickly with fynk AI.
 
-**[Wildmoose](https://www.wildmoose.ai/):** Wild Moose helps on-call developers more quickly identify the source of production incidents, by providing a conversational AI trained on their environment.
+**[Wegic](https://wegic.ai/):** An AI web designer & developer by your side.
 
-**[Transcribeme](https://www.transcribeme.app/us/home):** Convert WhatsApp and Telegram voice notes to text.
+**[Albus](https://albus.org/):** Boost your self-learning, research and creative sessions with AI.
 
-**[Elliottapp](https://www.elliottapp.com/):** AI product descriptions for Shopify stores.
+**[Empaithy](https://www.empaithy.com/):** Your intelligent AI companion, helping you reflect, understand, and enhance your mental wellbeing.
 
 ## Archives
+
+[Today's Featured AI Tools In One Sentence (05/13/2024)](https://curatedaitools.substack.com/p/todays-featured-ai-tools-in-one-sentence-bd0)
 
 [Today's Featured AI Tools In One Sentence (05/10/2024)](https://curatedaitools.substack.com/p/todays-featured-ai-tools-in-one-sentence-890)
 
