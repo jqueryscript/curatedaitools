@@ -2,29 +2,31 @@
 
 [Subscribe to our newsletter](https://curatedaitools.substack.com/) to get a daily list of new AI tools & apps in your inbox.
 
-## Today's Featured AI Tools In One Sentence (05/13/2024)
+## Today's Featured AI Tools In One Sentence (05/15/2024)
 
-**[CustomerIQ](https://www.getcustomeriq.com/):** An AI platform to aggregate all your customer feedback, quantify customer needs, and accelerate revenue-driving workflows with AI.
+**[Glitter AI](https://www.glitter.io/):** Turn any process into a step-by-step guide.
 
-**[Sofabrain](https://sofabrain.com/):** An AI powered Interior Design app and staging simulator.
+**[Automateed](https://automateed.com/):** Automateed: All-in-One AI eBook Creator.
 
-**[shortlistIQ](https://www.shortlistiq.com/):** AI Recruiting: Screening Candidates Effectively.
+**[Warmy](https://www.warmy.io/):** Increase email deliverability with cutting-edge technology.
 
-**[Lune](https://lunelearning.com/):** Use AI to teach you languages quickly and dynamically.
+**[Aipower](https://aipower.org/):** A WordPress ChatGPT plugin that uses GPT-4 by OpenAI, to generate high-quality content.
 
-**[Stoic](https://www.getstoic.com/):** Improve your mental health with all the tools you need to live a happier life.
+**[Amplication](https://amplication.com/):** Take control with the AI-powered platform and generate customizable, production-ready backend services.
 
-**[Watchful AI](https://www.watchfulai.co/):** Revolutionize the way you care for your loved ones - from babies to the elderly.
+**[Chatmind](https://chatmind.tech/):** Swiftly generate mind maps from simple prompts or diverse content.
 
-**[Fynk](https://fynk.com/en/):** Create, edit, negotiate and sign contracts quickly with fynk AI.
+**[Clay](https://clay.earth/):** Move beyond the CRM—automatically organize, intelligently search and keep your entire network in sync.
 
-**[Wegic](https://wegic.ai/):** An AI web designer & developer by your side.
+**[Productboard](https://www.productboard.com/):** Understand what customers need, prioritize what to build next, and align everyone around the roadmap, powered by AI.
 
-**[Albus](https://albus.org/):** Boost your self-learning, research and creative sessions with AI.
+**[Videotopage](https://www.videotopage.com/):** Summarize and repurpose your video or audio content into structured web pages.
 
-**[Empaithy](https://www.empaithy.com/):** Your intelligent AI companion, helping you reflect, understand, and enhance your mental wellbeing.
+**[Bookbud](https://www.bookbud.ai/):** A web-based service for self-published authors to create both fiction and non-fiction books with the help of AI and then publish them in ebook, print book, and audiobook formats.
 
 ## Archives
+
+[Today's Featured AI Tools In One Sentence (05/14/2024)](https://curatedaitools.substack.com/p/todays-featured-ai-tools-in-one-sentence-ff1)
 
 [Today's Featured AI Tools In One Sentence (05/13/2024)](https://curatedaitools.substack.com/p/todays-featured-ai-tools-in-one-sentence-bd0)
 
