@@ -2,29 +2,31 @@
 
 [Subscribe to our newsletter](https://curatedaitools.substack.com/) to get a daily list of new AI tools & apps in your inbox.
 
-## Today's Featured AI Tools In One Sentence (05/15/2024)
+## Today's Featured AI Tools In One Sentence (05/16/2024)
 
-**[Glitter AI](https://www.glitter.io/):** Turn any process into a step-by-step guide.
+**[Glato](https://glato.ai/en):** Create Short Video Ads that Sell with AI Creators.
 
-**[Automateed](https://automateed.com/):** Automateed: All-in-One AI eBook Creator.
+**[Reap](https://reap.video/):** Turn your long videos into viral shorts fasters.
 
-**[Warmy](https://www.warmy.io/):** Increase email deliverability with cutting-edge technology.
+**[Scalenut](https://www.scalenut.com/):** Your AI Co-pilot that powers the entire SEO content lifecycle.
 
-**[Aipower](https://aipower.org/):** A WordPress ChatGPT plugin that uses GPT-4 by OpenAI, to generate high-quality content.
+**[Edge Delta](https://edgedelta.com/):** An automated observability platform that monitors your services, alerts you when something is wrong, and guides root-cause analysis.
 
-**[Amplication](https://amplication.com/):** Take control with the AI-powered platform and generate customizable, production-ready backend services.
+**[Usercall](https://www.usercall.co/):** AI voice user interview agents.
 
-**[Chatmind](https://chatmind.tech/):** Swiftly generate mind maps from simple prompts or diverse content.
+**[Dioptra](https://www.dioptra.ai/):** The Closest Thing to Human Contract Review.
 
-**[Clay](https://clay.earth/):** Move beyond the CRM—automatically organize, intelligently search and keep your entire network in sync.
+**[Documind](https://www.documind.chat/):** Chat PDF and summarize documents using powerful GPT4 AI.
 
-**[Productboard](https://www.productboard.com/):** Understand what customers need, prioritize what to build next, and align everyone around the roadmap, powered by AI.
+**[Botrush](https://botrush.io/):** Enhanced privacy, cost control, and customization options for your chats with ChatGPT.
 
-**[Videotopage](https://www.videotopage.com/):** Summarize and repurpose your video or audio content into structured web pages.
+**[Unstudio](https://www.unstudio.ai/):** Create studio-quality pictures with artificial intelligence.
 
-**[Bookbud](https://www.bookbud.ai/):** A web-based service for self-published authors to create both fiction and non-fiction books with the help of AI and then publish them in ebook, print book, and audiobook formats.
+**[Talkiemate](https://talkiemate.com/):** Connect with custom virtual characters for engaging conversations.
 
 ## Archives
+
+[Today's Featured AI Tools In One Sentence (05/15/2024)](https://curatedaitools.substack.com/p/todays-featured-ai-tools-in-one-sentence-a94)
 
 [Today's Featured AI Tools In One Sentence (05/14/2024)](https://curatedaitools.substack.com/p/todays-featured-ai-tools-in-one-sentence-ff1)
 
