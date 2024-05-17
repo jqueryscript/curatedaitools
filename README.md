@@ -2,29 +2,31 @@
 
 [Subscribe to our newsletter](https://curatedaitools.substack.com/) to get a daily list of new AI tools & apps in your inbox.
 
-## Today's Featured AI Tools In One Sentence (05/16/2024)
+## Today's Featured AI Tools In One Sentence (05/17/2024)
 
-**[Glato](https://glato.ai/en):** Create Short Video Ads that Sell with AI Creators.
+**[Testsprite](https://www.testsprite.com/):** AI-Powered Fully Automated Testing Solutions: You Can Launch 10x Faster.
 
-**[Reap](https://reap.video/):** Turn your long videos into viral shorts fasters.
+**[Narafy](https://www.narafy.com/):** An AI notes app centred around tags.
 
-**[Scalenut](https://www.scalenut.com/):** Your AI Co-pilot that powers the entire SEO content lifecycle.
-
-**[Edge Delta](https://edgedelta.com/):** An automated observability platform that monitors your services, alerts you when something is wrong, and guides root-cause analysis.
-
-**[Usercall](https://www.usercall.co/):** AI voice user interview agents.
-
-**[Dioptra](https://www.dioptra.ai/):** The Closest Thing to Human Contract Review.
-
-**[Documind](https://www.documind.chat/):** Chat PDF and summarize documents using powerful GPT4 AI.
+**[Elicit](https://elicit.com/):** Analyze research papers at superhuman speed.
 
 **[Botrush](https://botrush.io/):** Enhanced privacy, cost control, and customization options for your chats with ChatGPT.
 
-**[Unstudio](https://www.unstudio.ai/):** Create studio-quality pictures with artificial intelligence.
+**[Aiter](https://aiter.io/):** One-Click AI Ads, Strategy and Content Generator.
 
-**[Talkiemate](https://talkiemate.com/):** Connect with custom virtual characters for engaging conversations.
+**[Chatbit](https://chatbit.co/):** Custom AI chatbots trained on your data.
+
+**[Flowpoint](https://flowpoint.ai/):** Optimize conversions and enhance ROI with data-driven recommendations.
+
+**[Contentpie](https://www.contentpie.ai/):** Grow Organic Traffic with AI-Powered Content Creation.
+
+**[Telow](https://telow.com/):** Gain Actionable Intelligence for your digital business with AI.
+
+**[Elto](https://www.elto.ai/):** a highly authentic, low-latency live voice AI that can make phone calls up to 1 hour long and execute follow-up tasks.
 
 ## Archives
+
+[Today's Featured AI Tools In One Sentence (05/16/2024)](https://curatedaitools.substack.com/p/todays-featured-ai-tools-in-one-sentence-961)
 
 [Today's Featured AI Tools In One Sentence (05/15/2024)](https://curatedaitools.substack.com/p/todays-featured-ai-tools-in-one-sentence-a94)
 
