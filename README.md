@@ -2,29 +2,31 @@
 
 [Subscribe to our newsletter](https://curatedaitools.substack.com/) to get a daily list of new AI tools & apps in your inbox.
 
-## Today's Featured AI Tools In One Sentence (05/17/2024)
+## Today's Featured AI Tools In One Sentence (05/20/2024)
 
-**[Testsprite](https://www.testsprite.com/):** AI-Powered Fully Automated Testing Solutions: You Can Launch 10x Faster.
+**[Smartli](https://www.smartli.ai/):** Create high-converting and compelling product descriptions with AI.
 
-**[Narafy](https://www.narafy.com/):** An AI notes app centred around tags.
+**[Contentspark](https://contentspark.ai/):** AI workflows for your business.
 
-**[Elicit](https://elicit.com/):** Analyze research papers at superhuman speed.
+**[Becc](https://www.becc.ai/):** Becca's AI-powered analyzer finds the latest trends in your niche to create engaging posts which sounds just like you.
 
-**[Botrush](https://botrush.io/):** Enhanced privacy, cost control, and customization options for your chats with ChatGPT.
+**[Aipdf](https://aipdf.ai/):** Use aiPDF to summarise, get insights from & chat with any file.
 
-**[Aiter](https://aiter.io/):** One-Click AI Ads, Strategy and Content Generator.
+**[Jib](https://jib.bot/):** A voice-based AI that is so fast and fluent you can barely tell it's a bot.
 
-**[Chatbit](https://chatbit.co/):** Custom AI chatbots trained on your data.
+**[Tinyalbert](https://www.tinyalbert.ai/):** An AI Marketing manager that helps you grow your Shopify store 10x faster with almost zero time investment from you.
 
-**[Flowpoint](https://flowpoint.ai/):** Optimize conversions and enhance ROI with data-driven recommendations.
+**[Zencall](https://www.zencall.ai/):** AI Answers Your Calls (a mobile app).
 
-**[Contentpie](https://www.contentpie.ai/):** Grow Organic Traffic with AI-Powered Content Creation.
+**[Poper](https://www.poper.ai/):** Create Smart Popups with AI.
 
-**[Telow](https://telow.com/):** Gain Actionable Intelligence for your digital business with AI.
+**[Hippo Scribe](https://gethipposcribe.com/):** AI Assisted Documentation for Physical Therapists.
 
-**[Elto](https://www.elto.ai/):** a highly authentic, low-latency live voice AI that can make phone calls up to 1 hour long and execute follow-up tasks.
+**[Lightski](https://www.lightski.com/):** Helps you build an AI analytics experience more powerful than Tableau for your users, allowing them to answer any arbitrary question they have about their data.
 
 ## Archives
+
+[Today's Featured AI Tools In One Sentence (05/17/2024)](https://curatedaitools.substack.com/p/todays-featured-ai-tools-in-one-sentence-2f5)
 
 [Today's Featured AI Tools In One Sentence (05/16/2024)](https://curatedaitools.substack.com/p/todays-featured-ai-tools-in-one-sentence-961)
 
