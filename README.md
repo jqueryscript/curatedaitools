@@ -2,29 +2,31 @@
 
 [Subscribe to our newsletter](https://curatedaitools.substack.com/) to get a daily list of new AI tools & apps in your inbox.
 
-## Today's Featured AI Tools In One Sentence (05/20/2024)
+## Today's Featured AI Tools In One Sentence (05/21/2024)
 
-**[Smartli](https://www.smartli.ai/):** Create high-converting and compelling product descriptions with AI.
+**[ElevenLabs Audio Native](https://elevenlabs.io/blog/audio-native/):** Add human-like narration to your blog or news site.
 
-**[Contentspark](https://contentspark.ai/):** AI workflows for your business.
+**[Octoverse](https://www.nexa4ai.com/octoverse):** Build AI Companions that understand and complete tasks for your users in apps.
 
-**[Becc](https://www.becc.ai/):** Becca's AI-powered analyzer finds the latest trends in your niche to create engaging posts which sounds just like you.
+**[Postlyy](https://postlyy.com/):** Grow your personal brand faster with effortless content management & AI content creation.
 
-**[Aipdf](https://aipdf.ai/):** Use aiPDF to summarise, get insights from & chat with any file.
+**[Timmyapp](https://www.timmyapp.com/):** Get personalized spending suggestions designed to grow your wealth, powered by AI.
 
-**[Jib](https://jib.bot/):** A voice-based AI that is so fast and fluent you can barely tell it's a bot.
+**[Kerlig](https://www.kerlig.com/):** In-context AI writing assistant for macOS.
 
-**[Tinyalbert](https://www.tinyalbert.ai/):** An AI Marketing manager that helps you grow your Shopify store 10x faster with almost zero time investment from you.
+**[Samsearch](https://samsearch.co/):** Streamline government contracting using SamSearch's powerful AI contract search and proposal generator that helps you respond to RFPs 10x faster.
 
-**[Zencall](https://www.zencall.ai/):** AI Answers Your Calls (a mobile app).
+**[Native AI](https://www.getnative.ai/):** Break free from context switching, clunky UIs, and manual tasks.
 
-**[Poper](https://www.poper.ai/):** Create Smart Popups with AI.
+**[Leap AI](https://www.tryleap.ai/):** Scale your marketing and sales team with AI automation for content generation, email outreach, and more.
 
-**[Hippo Scribe](https://gethipposcribe.com/):** AI Assisted Documentation for Physical Therapists.
+**[Neo-locu](https://www.neo-locus.com/):** Neo way of designing dream homes with AI.
 
-**[Lightski](https://www.lightski.com/):** Helps you build an AI analytics experience more powerful than Tableau for your users, allowing them to answer any arbitrary question they have about their data.
+**[Tulsk](https://tulsk.io/):** Enhance your productivity with Tulsk.io's AI Project Management.
 
 ## Archives
+
+[Today's Featured AI Tools In One Sentence (05/20/2024)](https://curatedaitools.substack.com/p/todays-featured-ai-tools-in-one-sentence-abb)
 
 [Today's Featured AI Tools In One Sentence (05/17/2024)](https://curatedaitools.substack.com/p/todays-featured-ai-tools-in-one-sentence-2f5)
 
