@@ -2,29 +2,31 @@
 
 [Subscribe to our newsletter](https://curatedaitools.substack.com/) to get a daily list of new AI tools & apps in your inbox.
 
-## Today's Featured AI Tools In One Sentence (05/21/2024)
+## Today's Featured AI Tools In One Sentence (05/22/2024)
 
-**[ElevenLabs Audio Native](https://elevenlabs.io/blog/audio-native/):** Add human-like narration to your blog or news site.
+**[Nowadays](https://www.getnowadays.com/):** Your AI-powered corporate event planner.
 
-**[Octoverse](https://www.nexa4ai.com/octoverse):** Build AI Companions that understand and complete tasks for your users in apps.
+**[Chatsimple](https://www.chatsimple.ai/):** Build AI sales agent powered by GPT-4o.
 
-**[Postlyy](https://postlyy.com/):** Grow your personal brand faster with effortless content management & AI content creation.
+**[Unify](https://unify.ai/):** Combine all models for faster, cheaper, and better responses than any single Model.
 
-**[Timmyapp](https://www.timmyapp.com/):** Get personalized spending suggestions designed to grow your wealth, powered by AI.
+**[Myaudiojournal](https://www.myaudiojournal.com/):** Record your thoughts on the go, and the AI will analyze them for you.
 
-**[Kerlig](https://www.kerlig.com/):** In-context AI writing assistant for macOS.
+**[Canvid](https://www.canvid.com/):** Create stunning, AI-enhanced screen recordings.
 
-**[Samsearch](https://samsearch.co/):** Streamline government contracting using SamSearch's powerful AI contract search and proposal generator that helps you respond to RFPs 10x faster.
+**[Sessions](https://www.sessions.us/):** An AI-powered platform that makes meetings & webinars insanely productive.
 
-**[Native AI](https://www.getnative.ai/):** Break free from context switching, clunky UIs, and manual tasks.
+**[Findr](https://www.usefindr.com/):** AI powered answers using workplace apps.
 
-**[Leap AI](https://www.tryleap.ai/):** Scale your marketing and sales team with AI automation for content generation, email outreach, and more.
+**[Statsig](https://www.statsig.com/):** A modern feature management and experimentation platform that empowers teams to 10x their experimentation velocity, shipping every feature in a data-driven way.
 
-**[Neo-locu](https://www.neo-locus.com/):** Neo way of designing dream homes with AI.
+**[Groqbook](https://github.com/Bklieger/groqbook):** Generate entire books in seconds using Groq and Llama3.
 
-**[Tulsk](https://tulsk.io/):** Enhance your productivity with Tulsk.io's AI Project Management.
+**[Wordsuperb](https://wordsuperb.com/home):** AI Grammar and Spell Checker based on ChatGPT.
 
 ## Archives
+
+[Today's Featured AI Tools In One Sentence (05/21/2024)](https://curatedaitools.substack.com/p/todays-featured-ai-tools-in-one-sentence-f0b)
 
 [Today's Featured AI Tools In One Sentence (05/20/2024)](https://curatedaitools.substack.com/p/todays-featured-ai-tools-in-one-sentence-abb)
 
