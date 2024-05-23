@@ -2,29 +2,32 @@
 
 [Subscribe to our newsletter](https://curatedaitools.substack.com/) to get a daily list of new AI tools & apps in your inbox.
 
-## Today's Featured AI Tools In One Sentence (05/22/2024)
+## Today's Featured AI Tools In One Sentence (05/23/2024)
 
-**[Nowadays](https://www.getnowadays.com/):** Your AI-powered corporate event planner.
+**[Scoopika](https://www.scoopika.com/):** Easily integrate AI assistants equipped with external tools into your app.
 
-**[Chatsimple](https://www.chatsimple.ai/):** Build AI sales agent powered by GPT-4o.
+**[Visualizee](https://visualizee.ai/):** Create realistic visualizations of your concepts.
 
-**[Unify](https://unify.ai/):** Combine all models for faster, cheaper, and better responses than any single Model.
+**[Asksocrates](https://asksocrates.app/):** Free Local ChatGPT with Multiple Documents using Llama 3 or OpenAI.
 
-**[Myaudiojournal](https://www.myaudiojournal.com/):** Record your thoughts on the go, and the AI will analyze them for you.
+**[Inncivio](https://www.inncivio.com/):** An AI-powered education platform for businesses.
 
-**[Canvid](https://www.canvid.com/):** Create stunning, AI-enhanced screen recordings.
+**[Aiva](https://www.aiva.ai/):** Your personal AI music generation assistant.
 
-**[Sessions](https://www.sessions.us/):** An AI-powered platform that makes meetings & webinars insanely productive.
+**[Hey-photo](https://hey-photo.com/):** Tune selfies and group photos with AI.
 
-**[Findr](https://www.usefindr.com/):** AI powered answers using workplace apps.
+**[Clipwing](https://clipwing.pro/):** Create dozens of clips from your raw videos, publish more content and grow your video show.
 
-**[Statsig](https://www.statsig.com/):** A modern feature management and experimentation platform that empowers teams to 10x their experimentation velocity, shipping every feature in a data-driven way.
+**[Codium AI](https://www.codium.ai/):** Meaningful code tests for busy devs.
 
-**[Groqbook](https://github.com/Bklieger/groqbook):** Generate entire books in seconds using Groq and Llama3.
+**[Distro](https://www.distro.app/):** The all-in-one AI platform purpose-built for distributors.
 
-**[Wordsuperb](https://wordsuperb.com/home):** AI Grammar and Spell Checker based on ChatGPT.
+**[Scammerblock](https://www.scammerblock.com/):** Protect your parents & grandparents from phone  
+scams by pre-screening the unknown incoming calls.
 
 ## Archives
+
+[Today's Featured AI Tools In One Sentence (05/22/2024)](https://curatedaitools.substack.com/p/todays-featured-ai-tools-in-one-sentence-ee5)
 
 [Today's Featured AI Tools In One Sentence (05/21/2024)](https://curatedaitools.substack.com/p/todays-featured-ai-tools-in-one-sentence-f0b)
 
