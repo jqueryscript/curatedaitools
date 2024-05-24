@@ -4,28 +4,29 @@
 
 ## Today's Featured AI Tools In One Sentence (05/23/2024)
 
-**[Scoopika](https://www.scoopika.com/):** Easily integrate AI assistants equipped with external tools into your app.
+**[World Of Gami](https://www.worldofgami.com/):** An AI-powered Trello alternative that ensures your team keeps tasks up-to-date.
 
-**[Visualizee](https://visualizee.ai/):** Create realistic visualizations of your concepts.
+**[Magicam](https://magicam.ai/):** Seamlessly swap faces in high-quality live streams using just a single photo.
 
-**[Asksocrates](https://asksocrates.app/):** Free Local ChatGPT with Multiple Documents using Llama 3 or OpenAI.
+**[Arrange](https://www.scriptbyai.com/plan-arrange-sync-google-calendar/):** Generate detailed plans on any topic and sync them directly to your Google Calendar.
 
-**[Inncivio](https://www.inncivio.com/):** An AI-powered education platform for businesses.
+**[Helpmee](https://helpmee.ai/):** Unlock tech independence for your parents with AI-guided computer help.
 
-**[Aiva](https://www.aiva.ai/):** Your personal AI music generation assistant.
+**[Revaluation](https://www.userevaluation.com/):** Seamlessly convert customer data into strategic assets using this all-encompassing AI analysis toolkit.
 
-**[Hey-photo](https://hey-photo.com/):** Tune selfies and group photos with AI.
+**[Chat Playground](https://www.chatplayground.ai/):** Achieve better AI answers 73% of the time with multiple chatbots.
 
-**[Clipwing](https://clipwing.pro/):** Create dozens of clips from your raw videos, publish more content and grow your video show.
+**[Clockwise](https://www.getclockwise.com/):** AI scheduling and calendar automation that coordinates the way you, your team, and your company prefer to work.
 
-**[Codium AI](https://www.codium.ai/):** Meaningful code tests for busy devs.
+**[Athina](https://athina.ai/):** Monitor LLMs in production. Detect hallucinations, bias, and safety risks. Prevent bad outputs from reaching your users.
 
-**[Distro](https://www.distro.app/):** The all-in-one AI platform purpose-built for distributors.
+**[Perplexica](https://github.com/ItzCrazyKns/Perplexica):** An AI-powered search engine. It is an Open source alternative to Perplexity AI.
 
-**[Scammerblock](https://www.scammerblock.com/):** Protect your parents & grandparents from phone  
-scams by pre-screening the unknown incoming calls.
+**[Eklipse](https://eklipse.gg/):** An AI video tool that creates highlights from your gaming streams for free.
 
 ## Archives
+
+[Today's Featured AI Tools In One Sentence (05/23/2024)](https://curatedaitools.substack.com/p/todays-featured-ai-tools-in-one-sentence-d76)
 
 [Today's Featured AI Tools In One Sentence (05/22/2024)](https://curatedaitools.substack.com/p/todays-featured-ai-tools-in-one-sentence-ee5)
 
