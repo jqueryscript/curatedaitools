@@ -2,29 +2,31 @@
 
 [Subscribe to our newsletter](https://curatedaitools.substack.com/) to get a daily list of new AI tools & apps in your inbox.
 
-## Today's Featured AI Tools In One Sentence (05/23/2024)
+## Today's Featured AI Tools In One Sentence (05/27/2024)
 
-**[World Of Gami](https://www.worldofgami.com/):** An AI-powered Trello alternative that ensures your team keeps tasks up-to-date.
+**[IKI.AI](https://iki.ai/):** LLM powered intelligent knowledge interface.
 
-**[Magicam](https://magicam.ai/):** Seamlessly swap faces in high-quality live streams using just a single photo.
+**[TeamGPT](https://team-gpt.com/):** Intuitive GPT chat for your whole company.
 
-**[Arrange](https://www.scriptbyai.com/plan-arrange-sync-google-calendar/):** Generate detailed plans on any topic and sync them directly to your Google Calendar.
+**[Jector](https://jector.ai/):** An AI background generator.
 
-**[Helpmee](https://helpmee.ai/):** Unlock tech independence for your parents with AI-guided computer help.
+**[Comigo](https://www.comigo.ai/):** The Next Generation of ADHD Support.
 
-**[Revaluation](https://www.userevaluation.com/):** Seamlessly convert customer data into strategic assets using this all-encompassing AI analysis toolkit.
+**[Marlee](https://getmarlee.com/):** A collaboration and performance AI for individuals and teams to bring out the best in everyone right in the flow of work anywhere, anytime.
 
-**[Chat Playground](https://www.chatplayground.ai/):** Achieve better AI answers 73% of the time with multiple chatbots.
+**[HyperCrawl](https://hypercrawl.hyperllm.org/):** The first web crawler designed specifically for LLM and RAG application and develop powerful retrieval engines.
 
-**[Clockwise](https://www.getclockwise.com/):** AI scheduling and calendar automation that coordinates the way you, your team, and your company prefer to work.
+**[StickerAIArt](https://stickeraiart.com/):** Create AI stickers that people love.
 
-**[Athina](https://athina.ai/):** Monitor LLMs in production. Detect hallucinations, bias, and safety risks. Prevent bad outputs from reaching your users.
+**[Forloop](https://www.forloop.ai/):** Collect. Prepare. Automate. External data in minutes.
 
-**[Perplexica](https://github.com/ItzCrazyKns/Perplexica):** An AI-powered search engine. It is an Open source alternative to Perplexity AI.
+**[Rehance](https://rehance.ai/):** The AI copilot you can add to your SaaS to unlock new levels of productivity for your users.
 
-**[Eklipse](https://eklipse.gg/):** An AI video tool that creates highlights from your gaming streams for free.
+**[Outfit](https://outfit.fm/):** Your virtual dressing room.
 
 ## Archives
+
+[Today's Featured AI Tools In One Sentence (05/24/2024)](https://curatedaitools.substack.com/p/todays-featured-ai-tools-in-one-sentence-246)
 
 [Today's Featured AI Tools In One Sentence (05/23/2024)](https://curatedaitools.substack.com/p/todays-featured-ai-tools-in-one-sentence-d76)
 
