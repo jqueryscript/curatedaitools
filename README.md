@@ -2,29 +2,31 @@
 
 [Subscribe to our newsletter](https://curatedaitools.substack.com/) to get a daily list of new AI tools & apps in your inbox.
 
-## Today's Featured AI Tools In One Sentence (05/27/2024)
+## Today's Featured AI Tools In One Sentence (05/28/2024)
 
-**[IKI.AI](https://iki.ai/):** LLM powered intelligent knowledge interface.
+**[Frontly](https://frontly.ai/):** Build AI-powered apps with no code.
 
-**[TeamGPT](https://team-gpt.com/):** Intuitive GPT chat for your whole company.
+**[Pixite](https://pixite.ai/):** Transform your creative ideas into stylish, wearable designs with cutting-edge AI.
 
-**[Jector](https://jector.ai/):** An AI background generator.
+**[Lawformer](https://lawformer.com/):** AI-powered tool breaking complex contracts into smaller elements.
 
-**[Comigo](https://www.comigo.ai/):** The Next Generation of ADHD Support.
+**[Docudig](https://docudig.com/):** AI-driven smart search for your documents.
 
-**[Marlee](https://getmarlee.com/):** A collaboration and performance AI for individuals and teams to bring out the best in everyone right in the flow of work anywhere, anytime.
+**[Cressi](https://cressi.ai/):** Your personal shopping virtuoso, driven by AI, but designed with a human touch.
 
-**[HyperCrawl](https://hypercrawl.hyperllm.org/):** The first web crawler designed specifically for LLM and RAG application and develop powerful retrieval engines.
+**[Motion](https://www.usemotion.com/):** Use AI to plan your work, automatically.
 
-**[StickerAIArt](https://stickeraiart.com/):** Create AI stickers that people love.
+**[Hypotenuse](https://www.hypotenuse.ai/):** An AI Content Writer that truly knows you, your brand, and your voice.
 
-**[Forloop](https://www.forloop.ai/):** Collect. Prepare. Automate. External data in minutes.
+**[Conversionblitz](https://conversionblitz.com/en):** A suite of lead generation tools designed to help you grow your company.
 
-**[Rehance](https://rehance.ai/):** The AI copilot you can add to your SaaS to unlock new levels of productivity for your users.
+**[Prototype](https://www.getaprototype.com/):** A generative UI platform for designers, frontend engineers and PMs.
 
-**[Outfit](https://outfit.fm/):** Your virtual dressing room.
+**[Lido](https://www.lido.app/):** Automate spreadsheet tasks without code.
 
 ## Archives
+
+[Today's Featured AI Tools In One Sentence (05/27/2024)](https://curatedaitools.substack.com/p/todays-featured-ai-tools-in-one-sentence-f91)
 
 [Today's Featured AI Tools In One Sentence (05/24/2024)](https://curatedaitools.substack.com/p/todays-featured-ai-tools-in-one-sentence-246)
 
