@@ -4,27 +4,29 @@
 
 ## Today's Featured AI Tools In One Sentence (05/28/2024)
 
-**[Frontly](https://frontly.ai/):** Build AI-powered apps with no code.
+**[timeOS](https://www.timeos.ai/):** An AI productivity companion that captures and summarizes your day, organizes all relevant information within the right tool, and proactively surfaces the knowledge you need, when you need it.
 
-**[Pixite](https://pixite.ai/):** Transform your creative ideas into stylish, wearable designs with cutting-edge AI.
+**[Capsule](https://capsule.video/):** The AI-powered video editor for content and marketing teams.
 
-**[Lawformer](https://lawformer.com/):** AI-powered tool breaking complex contracts into smaller elements.
+**[Syllaby](https://syllaby.io/):** Your In-House AI Video Marketing Agency.
 
-**[Docudig](https://docudig.com/):** AI-driven smart search for your documents.
+**[ProAI](https://proai.co/):** Unlock success with custom AI-generated business plans, research, and strategies backed by 3,600+ client engagements.
 
-**[Cressi](https://cressi.ai/):** Your personal shopping virtuoso, driven by AI, but designed with a human touch.
+**[Fryderyk](https://fryderyk.ai/):** A music making web app with a built-in AI assistant.
 
-**[Motion](https://www.usemotion.com/):** Use AI to plan your work, automatically.
+**[Backseat](https://www.backseat.gg/):** Win more in League of Legends with your new in-game bud, Tyler1. Riot approved free AI LoL companion with live coaching, pro builds, stats, runes and counters.
 
-**[Hypotenuse](https://www.hypotenuse.ai/):** An AI Content Writer that truly knows you, your brand, and your voice.
+**[Tablepad](https://tablepad.io/):** Connect any data source, query in plain language, and extract actionable insights.
 
-**[Conversionblitz](https://conversionblitz.com/en):** A suite of lead generation tools designed to help you grow your company.
+**[Apten](https://www.apten.ai/):** An AI SMS assistant for sales, customer service, marketing, and more.
 
-**[Prototype](https://www.getaprototype.com/):** A generative UI platform for designers, frontend engineers and PMs.
+**[Replymind](https://www.replymind.com/):** Take Your Social Engagement To The Next Level With The Power of AI.
 
-**[Lido](https://www.lido.app/):** Automate spreadsheet tasks without code.
+**[Alchemyze](https://alchemyze.ai/index):** Unlock hedge fund quality AI-driven insights, comprehensive stock analysis, and smarter investment strategies.
 
 ## Archives
+
+[Today's Featured AI Tools In One Sentence (05/28/2024)](https://curatedaitools.substack.com/p/todays-featured-ai-tools-in-one-sentence-04e)
 
 [Today's Featured AI Tools In One Sentence (05/27/2024)](https://curatedaitools.substack.com/p/todays-featured-ai-tools-in-one-sentence-f91)
 
