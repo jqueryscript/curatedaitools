@@ -2,29 +2,31 @@
 
 [Subscribe to our newsletter](https://curatedaitools.substack.com/) to get a daily list of new AI tools & apps in your inbox.
 
-## Today's Featured AI Tools In One Sentence (05/28/2024)
+## Today's Featured AI Tools In One Sentence (05/30/2024)
 
-**[timeOS](https://www.timeos.ai/):** An AI productivity companion that captures and summarizes your day, organizes all relevant information within the right tool, and proactively surfaces the knowledge you need, when you need it.
+**[OhAPotato](https://ohapotato.app/):** The Chat GPT-powered iOS app that helps you find, save and plan recipes using ingredients you already have!
 
-**[Capsule](https://capsule.video/):** The AI-powered video editor for content and marketing teams.
+**[Opencall](https://opencall.ai/):** Create A Call Center in Minutes.
 
-**[Syllaby](https://syllaby.io/):** Your In-House AI Video Marketing Agency.
+**[BypassAI](https://bypassai.io/):** An AI-to-Human text generator tool that creates human-like content.
 
-**[ProAI](https://proai.co/):** Unlock success with custom AI-generated business plans, research, and strategies backed by 3,600+ client engagements.
+**[AINotebook](https://ainotebook.app/):** Smart summaries, flexible capture, all styles.
 
-**[Fryderyk](https://fryderyk.ai/):** A music making web app with a built-in AI assistant.
+**[SuperComments](https://super-comments.com/):** Your assistant to grow on social media 100 times faster and easier.
 
-**[Backseat](https://www.backseat.gg/):** Win more in League of Legends with your new in-game bud, Tyler1. Riot approved free AI LoL companion with live coaching, pro builds, stats, runes and counters.
+**[Hanabi](https://hanabi.rest/):** AI-based API building platform.
 
-**[Tablepad](https://tablepad.io/):** Connect any data source, query in plain language, and extract actionable insights.
+**[Betina](https://www.askbetina.com/en):** Connect with this AI pet specialist 24/7 for immediate guidance on your pet’s health, behavior, nutrition and well-being.
 
-**[Apten](https://www.apten.ai/):** An AI SMS assistant for sales, customer service, marketing, and more.
+**[Contextdata](https://contextdata.ai/):** Build Gen AI apps without managing Vector DBs, Pipelines & Infrastructure.
 
-**[Replymind](https://www.replymind.com/):** Take Your Social Engagement To The Next Level With The Power of AI.
+**[Buffup](https://buffup.ai/):** AI Web Copilot, Browser AI Assistant, Browser Sidebar, Powered by ChatGPT.
 
-**[Alchemyze](https://alchemyze.ai/index):** Unlock hedge fund quality AI-driven insights, comprehensive stock analysis, and smarter investment strategies.
+**[InkStudioAI](https://inkstudioai.com/):** Turn your Tattoo idea into reality, within minutes.
 
 ## Archives
+
+[Today's Featured AI Tools In One Sentence (05/29/2024)](https://curatedaitools.substack.com/p/todays-featured-ai-tools-in-one-sentence-e4d)
 
 [Today's Featured AI Tools In One Sentence (05/28/2024)](https://curatedaitools.substack.com/p/todays-featured-ai-tools-in-one-sentence-04e)
 
