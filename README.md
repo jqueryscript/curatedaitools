@@ -2,29 +2,31 @@
 
 [Subscribe to our newsletter](https://curatedaitools.substack.com/) to get a daily list of new AI tools & apps in your inbox.
 
-## Today's Featured AI Tools In One Sentence (05/30/2024)
+## Today's Featured AI Tools In One Sentence (05/31/2024)
 
-**[OhAPotato](https://ohapotato.app/):** The Chat GPT-powered iOS app that helps you find, save and plan recipes using ingredients you already have!
+**[PeacePulse](https://apps.apple.com/us/app/peacepulse-mental-health/id6502835984):** An AI mental health app for iOS.
 
-**[Opencall](https://opencall.ai/):** Create A Call Center in Minutes.
+**[WhisperTranscribe](https://whispertranscribe.com/):** Get an accurate transcript and automatically generate content from it.
 
-**[BypassAI](https://bypassai.io/):** An AI-to-Human text generator tool that creates human-like content.
+**[DocentPro](https://www.docentpro.com/):** Your AI travel guide app available in iOS and Android.
 
-**[AINotebook](https://ainotebook.app/):** Smart summaries, flexible capture, all styles.
+**[Turbular](https://www.turbular.com/en):** Leverage your data potential with AI-powered analytics.
 
-**[SuperComments](https://super-comments.com/):** Your assistant to grow on social media 100 times faster and easier.
+**[BlogToPin](https://www.blogtopin.com/):** Instantly generate Pins for hundreds of your posts using AI.
 
-**[Hanabi](https://hanabi.rest/):** AI-based API building platform.
+**[PeopleAlsoAsk](https://peoplealsoask.ai/):** Crack the 'Also People Ask' Code & Answer the Public Wants with AI!
 
-**[Betina](https://www.askbetina.com/en):** Connect with this AI pet specialist 24/7 for immediate guidance on your pet’s health, behavior, nutrition and well-being.
+**[Kombai](https://kombai.com/)**: A new model trained to code email & web designs like humans.
 
-**[Contextdata](https://contextdata.ai/):** Build Gen AI apps without managing Vector DBs, Pipelines & Infrastructure.
+**[Exactly](https://exactly.ai/):** Train a personal AI on your artwork.
 
-**[Buffup](https://buffup.ai/):** AI Web Copilot, Browser AI Assistant, Browser Sidebar, Powered by ChatGPT.
+**[Unstract](https://unstract.com/):** No-code platform to eliminate manual processes involving unstructured data using the power of LLMs.
 
-**[InkStudioAI](https://inkstudioai.com/):** Turn your Tattoo idea into reality, within minutes.
+**[QRev](https://github.com/qrev-ai/qrev/):** An Open Source AI First alternative to Salesforce.
 
 ## Archives
+
+[Today's Featured AI Tools In One Sentence (05/30/2024)](https://curatedaitools.substack.com/p/todays-featured-ai-tools-in-one-sentence-7f9)
 
 [Today's Featured AI Tools In One Sentence (05/29/2024)](https://curatedaitools.substack.com/p/todays-featured-ai-tools-in-one-sentence-e4d)
 
