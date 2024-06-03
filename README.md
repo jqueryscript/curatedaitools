@@ -2,29 +2,31 @@
 
 [Subscribe to our newsletter](https://curatedaitools.substack.com/) to get a daily list of new AI tools & apps in your inbox.
 
-## Today's Featured AI Tools In One Sentence (05/31/2024)
+## Today's Featured AI Tools In One Sentence (06/03/2024)
 
-**[PeacePulse](https://apps.apple.com/us/app/peacepulse-mental-health/id6502835984):** An AI mental health app for iOS.
+**[Marevo](https://marevo.io/):** Create marketing copy, social media posts, SEO blogs, headlines and more in a few clicks.
 
-**[WhisperTranscribe](https://whispertranscribe.com/):** Get an accurate transcript and automatically generate content from it.
+**[Taskade](https://www.taskade.com/):** Supercharge your productivity with a dedicated team of AI agents.
 
-**[DocentPro](https://www.docentpro.com/):** Your AI travel guide app available in iOS and Android.
+**[Deepshot](https://www.deepshot.ai/):** AI reshoots and lip generation at your fingertips.
 
-**[Turbular](https://www.turbular.com/en):** Leverage your data potential with AI-powered analytics.
+**[Regie](https://www.regie.ai/):** Use GenAI and automation to make prospecting easier for businesses and better for buyers.
 
-**[BlogToPin](https://www.blogtopin.com/):** Instantly generate Pins for hundreds of your posts using AI.
+**[Learneron](https://learneron.net/):** AI Powered smart learning platform.
 
-**[PeopleAlsoAsk](https://peoplealsoask.ai/):** Crack the 'Also People Ask' Code & Answer the Public Wants with AI!
+**[Zapcap](https://zapcap.ai/):** Add video subtitles with unmatched accuracy, speed, and cost.
 
-**[Kombai](https://kombai.com/)**: A new model trained to code email & web designs like humans.
+**[Novita](https://novita.ai/):** Designed to elevate your AI-driven business at the pace of technology, offering model hosting and training solutions.
 
-**[Exactly](https://exactly.ai/):** Train a personal AI on your artwork.
+**[Humata](https://www.humata.ai/):** Unlock AI insights for your files instantly.
 
-**[Unstract](https://unstract.com/):** No-code platform to eliminate manual processes involving unstructured data using the power of LLMs.
+**[Magical](https://www.getmagical.com/):** Focus on work that actually matters with Magical's AI productivity app that automates repetitive tasks on any site.
 
-**[QRev](https://github.com/qrev-ai/qrev/):** An Open Source AI First alternative to Salesforce.
+**[Phewtab](https://phewtab.com/):** Manage and retrieve Chrome tab information via AI-based grouping and spaces in a vertical sidebar
 
 ## Archives
+
+[Today's Featured AI Tools In One Sentence (05/31/2024)](https://curatedaitools.substack.com/p/todays-featured-ai-tools-in-one-sentence-c20)
 
 [Today's Featured AI Tools In One Sentence (05/30/2024)](https://curatedaitools.substack.com/p/todays-featured-ai-tools-in-one-sentence-7f9)
 
